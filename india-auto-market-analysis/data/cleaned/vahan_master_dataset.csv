@@ -1,0 +1,1726 @@
+state_code,state_name,year,month_num,month_abbr,maker,registrations,is_partial_year
+DL,Delhi,2021,1,Jan,Hyundai,2485,False
+DL,Delhi,2021,1,Jan,Kia,993,False
+DL,Delhi,2021,1,Jan,Mahindra,336,False
+DL,Delhi,2021,1,Jan,Maruti Suzuki,8087,False
+DL,Delhi,2021,1,Jan,Renault,390,False
+DL,Delhi,2021,2,Feb,Hyundai,2284,False
+DL,Delhi,2021,2,Feb,Kia,1267,False
+DL,Delhi,2021,2,Feb,Mahindra,300,False
+DL,Delhi,2021,2,Feb,Maruti Suzuki,6240,False
+DL,Delhi,2021,2,Feb,Renault,279,False
+DL,Delhi,2021,3,Mar,Hyundai,2392,False
+DL,Delhi,2021,3,Mar,Kia,1374,False
+DL,Delhi,2021,3,Mar,Mahindra,279,False
+DL,Delhi,2021,3,Mar,Maruti Suzuki,7183,False
+DL,Delhi,2021,3,Mar,Renault,365,False
+DL,Delhi,2021,4,Apr,Hyundai,1343,False
+DL,Delhi,2021,4,Apr,Kia,598,False
+DL,Delhi,2021,4,Apr,Mahindra,218,False
+DL,Delhi,2021,4,Apr,Maruti Suzuki,3607,False
+DL,Delhi,2021,4,Apr,Renault,237,False
+DL,Delhi,2021,5,May,Hyundai,13,False
+DL,Delhi,2021,5,May,Kia,0,False
+DL,Delhi,2021,5,May,Mahindra,1,False
+DL,Delhi,2021,5,May,Maruti Suzuki,10,False
+DL,Delhi,2021,5,May,Renault,0,False
+DL,Delhi,2021,6,Jun,Hyundai,2363,False
+DL,Delhi,2021,6,Jun,Kia,1535,False
+DL,Delhi,2021,6,Jun,Mahindra,367,False
+DL,Delhi,2021,6,Jun,Maruti Suzuki,4916,False
+DL,Delhi,2021,6,Jun,Renault,229,False
+DL,Delhi,2021,7,Jul,Hyundai,2765,False
+DL,Delhi,2021,7,Jul,Kia,1152,False
+DL,Delhi,2021,7,Jul,Mahindra,360,False
+DL,Delhi,2021,7,Jul,Maruti Suzuki,6445,False
+DL,Delhi,2021,7,Jul,Renault,304,False
+DL,Delhi,2021,8,Aug,Hyundai,2418,False
+DL,Delhi,2021,8,Aug,Kia,1007,False
+DL,Delhi,2021,8,Aug,Mahindra,467,False
+DL,Delhi,2021,8,Aug,Maruti Suzuki,5115,False
+DL,Delhi,2021,8,Aug,Renault,307,False
+DL,Delhi,2021,9,Sep,Hyundai,1664,False
+DL,Delhi,2021,9,Sep,Kia,871,False
+DL,Delhi,2021,9,Sep,Mahindra,331,False
+DL,Delhi,2021,9,Sep,Maruti Suzuki,3095,False
+DL,Delhi,2021,9,Sep,Renault,248,False
+DL,Delhi,2021,10,Oct,Hyundai,2221,False
+DL,Delhi,2021,10,Oct,Kia,1102,False
+DL,Delhi,2021,10,Oct,Mahindra,456,False
+DL,Delhi,2021,10,Oct,Maruti Suzuki,4797,False
+DL,Delhi,2021,10,Oct,Renault,333,False
+DL,Delhi,2021,11,Nov,Hyundai,1958,False
+DL,Delhi,2021,11,Nov,Kia,824,False
+DL,Delhi,2021,11,Nov,Mahindra,581,False
+DL,Delhi,2021,11,Nov,Maruti Suzuki,4668,False
+DL,Delhi,2021,11,Nov,Renault,307,False
+DL,Delhi,2021,12,Dec,Hyundai,2056,False
+DL,Delhi,2021,12,Dec,Kia,820,False
+DL,Delhi,2021,12,Dec,Mahindra,672,False
+DL,Delhi,2021,12,Dec,Maruti Suzuki,5131,False
+DL,Delhi,2021,12,Dec,Renault,255,False
+DL,Delhi,2022,1,Jan,Hyundai,1846,False
+DL,Delhi,2022,1,Jan,Kia,705,False
+DL,Delhi,2022,1,Jan,Mahindra,812,False
+DL,Delhi,2022,1,Jan,Maruti Suzuki,6016,False
+DL,Delhi,2022,1,Jan,Renault,259,False
+DL,Delhi,2022,2,Feb,Hyundai,1842,False
+DL,Delhi,2022,2,Feb,Kia,985,False
+DL,Delhi,2022,2,Feb,Mahindra,673,False
+DL,Delhi,2022,2,Feb,Maruti Suzuki,5099,False
+DL,Delhi,2022,2,Feb,Renault,197,False
+DL,Delhi,2022,3,Mar,Hyundai,2023,False
+DL,Delhi,2022,3,Mar,Kia,1184,False
+DL,Delhi,2022,3,Mar,Mahindra,728,False
+DL,Delhi,2022,3,Mar,Maruti Suzuki,5058,False
+DL,Delhi,2022,3,Mar,Renault,204,False
+DL,Delhi,2022,4,Apr,Hyundai,2275,False
+DL,Delhi,2022,4,Apr,Kia,1183,False
+DL,Delhi,2022,4,Apr,Mahindra,783,False
+DL,Delhi,2022,4,Apr,Maruti Suzuki,6103,False
+DL,Delhi,2022,4,Apr,Renault,291,False
+DL,Delhi,2022,5,May,Hyundai,2082,False
+DL,Delhi,2022,5,May,Kia,1344,False
+DL,Delhi,2022,5,May,Mahindra,721,False
+DL,Delhi,2022,5,May,Maruti Suzuki,5841,False
+DL,Delhi,2022,5,May,Renault,267,False
+DL,Delhi,2022,6,Jun,Hyundai,2262,False
+DL,Delhi,2022,6,Jun,Kia,1240,False
+DL,Delhi,2022,6,Jun,Mahindra,669,False
+DL,Delhi,2022,6,Jun,Maruti Suzuki,5559,False
+DL,Delhi,2022,6,Jun,Renault,246,False
+DL,Delhi,2022,7,Jul,Hyundai,2601,False
+DL,Delhi,2022,7,Jul,Kia,1336,False
+DL,Delhi,2022,7,Jul,Mahindra,775,False
+DL,Delhi,2022,7,Jul,Maruti Suzuki,5702,False
+DL,Delhi,2022,7,Jul,Renault,294,False
+DL,Delhi,2022,8,Aug,Hyundai,2701,False
+DL,Delhi,2022,8,Aug,Kia,1529,False
+DL,Delhi,2022,8,Aug,Mahindra,845,False
+DL,Delhi,2022,8,Aug,Maruti Suzuki,5649,False
+DL,Delhi,2022,8,Aug,Renault,281,False
+DL,Delhi,2022,9,Sep,Hyundai,2164,False
+DL,Delhi,2022,9,Sep,Kia,1385,False
+DL,Delhi,2022,9,Sep,Mahindra,955,False
+DL,Delhi,2022,9,Sep,Maruti Suzuki,4937,False
+DL,Delhi,2022,9,Sep,Renault,205,False
+DL,Delhi,2022,10,Oct,Hyundai,2637,False
+DL,Delhi,2022,10,Oct,Kia,1496,False
+DL,Delhi,2022,10,Oct,Mahindra,1176,False
+DL,Delhi,2022,10,Oct,Maruti Suzuki,7006,False
+DL,Delhi,2022,10,Oct,Renault,301,False
+DL,Delhi,2022,11,Nov,Hyundai,2287,False
+DL,Delhi,2022,11,Nov,Kia,1380,False
+DL,Delhi,2022,11,Nov,Mahindra,1106,False
+DL,Delhi,2022,11,Nov,Maruti Suzuki,5807,False
+DL,Delhi,2022,11,Nov,Renault,275,False
+DL,Delhi,2022,12,Dec,Hyundai,2334,False
+DL,Delhi,2022,12,Dec,Kia,1299,False
+DL,Delhi,2022,12,Dec,Mahindra,944,False
+DL,Delhi,2022,12,Dec,Maruti Suzuki,5900,False
+DL,Delhi,2022,12,Dec,Renault,205,False
+DL,Delhi,2023,1,Jan,Hyundai,2314,False
+DL,Delhi,2023,1,Jan,Kia,1179,False
+DL,Delhi,2023,1,Jan,Mahindra,1171,False
+DL,Delhi,2023,1,Jan,Maruti Suzuki,7228,False
+DL,Delhi,2023,1,Jan,Renault,286,False
+DL,Delhi,2023,2,Feb,Hyundai,2077,False
+DL,Delhi,2023,2,Feb,Kia,1353,False
+DL,Delhi,2023,2,Feb,Mahindra,894,False
+DL,Delhi,2023,2,Feb,Maruti Suzuki,5612,False
+DL,Delhi,2023,2,Feb,Renault,181,False
+DL,Delhi,2023,3,Mar,Hyundai,2389,False
+DL,Delhi,2023,3,Mar,Kia,1340,False
+DL,Delhi,2023,3,Mar,Mahindra,1067,False
+DL,Delhi,2023,3,Mar,Maruti Suzuki,6660,False
+DL,Delhi,2023,3,Mar,Renault,188,False
+DL,Delhi,2023,4,Apr,Hyundai,2073,False
+DL,Delhi,2023,4,Apr,Kia,1031,False
+DL,Delhi,2023,4,Apr,Mahindra,1122,False
+DL,Delhi,2023,4,Apr,Maruti Suzuki,5334,False
+DL,Delhi,2023,4,Apr,Renault,177,False
+DL,Delhi,2023,5,May,Hyundai,2611,False
+DL,Delhi,2023,5,May,Kia,1122,False
+DL,Delhi,2023,5,May,Mahindra,1172,False
+DL,Delhi,2023,5,May,Maruti Suzuki,6486,False
+DL,Delhi,2023,5,May,Renault,158,False
+DL,Delhi,2023,6,Jun,Hyundai,2238,False
+DL,Delhi,2023,6,Jun,Kia,1072,False
+DL,Delhi,2023,6,Jun,Mahindra,1118,False
+DL,Delhi,2023,6,Jun,Maruti Suzuki,6104,False
+DL,Delhi,2023,6,Jun,Renault,147,False
+DL,Delhi,2023,7,Jul,Hyundai,2185,False
+DL,Delhi,2023,7,Jul,Kia,802,False
+DL,Delhi,2023,7,Jul,Mahindra,926,False
+DL,Delhi,2023,7,Jul,Maruti Suzuki,6151,False
+DL,Delhi,2023,7,Jul,Renault,133,False
+DL,Delhi,2023,8,Aug,Hyundai,2374,False
+DL,Delhi,2023,8,Aug,Kia,1235,False
+DL,Delhi,2023,8,Aug,Mahindra,1042,False
+DL,Delhi,2023,8,Aug,Maruti Suzuki,6492,False
+DL,Delhi,2023,8,Aug,Renault,119,False
+DL,Delhi,2023,9,Sep,Hyundai,2215,False
+DL,Delhi,2023,9,Sep,Kia,1352,False
+DL,Delhi,2023,9,Sep,Mahindra,1082,False
+DL,Delhi,2023,9,Sep,Maruti Suzuki,6089,False
+DL,Delhi,2023,9,Sep,Renault,108,False
+DL,Delhi,2023,10,Oct,Hyundai,2246,False
+DL,Delhi,2023,10,Oct,Kia,1313,False
+DL,Delhi,2023,10,Oct,Mahindra,1054,False
+DL,Delhi,2023,10,Oct,Maruti Suzuki,6048,False
+DL,Delhi,2023,10,Oct,Renault,124,False
+DL,Delhi,2023,11,Nov,Hyundai,2482,False
+DL,Delhi,2023,11,Nov,Kia,1314,False
+DL,Delhi,2023,11,Nov,Mahindra,1340,False
+DL,Delhi,2023,11,Nov,Maruti Suzuki,7308,False
+DL,Delhi,2023,11,Nov,Renault,121,False
+DL,Delhi,2023,12,Dec,Hyundai,1960,False
+DL,Delhi,2023,12,Dec,Kia,1223,False
+DL,Delhi,2023,12,Dec,Mahindra,1116,False
+DL,Delhi,2023,12,Dec,Maruti Suzuki,6034,False
+DL,Delhi,2023,12,Dec,Renault,104,False
+DL,Delhi,2024,1,Jan,Hyundai,2565,False
+DL,Delhi,2024,1,Jan,Kia,1491,False
+DL,Delhi,2024,1,Jan,Mahindra,1337,False
+DL,Delhi,2024,1,Jan,Maruti Suzuki,9551,False
+DL,Delhi,2024,1,Jan,Renault,116,False
+DL,Delhi,2024,2,Feb,Hyundai,2115,False
+DL,Delhi,2024,2,Feb,Kia,1522,False
+DL,Delhi,2024,2,Feb,Mahindra,1366,False
+DL,Delhi,2024,2,Feb,Maruti Suzuki,6108,False
+DL,Delhi,2024,2,Feb,Renault,124,False
+DL,Delhi,2024,3,Mar,Hyundai,2017,False
+DL,Delhi,2024,3,Mar,Kia,1287,False
+DL,Delhi,2024,3,Mar,Mahindra,1358,False
+DL,Delhi,2024,3,Mar,Maruti Suzuki,5430,False
+DL,Delhi,2024,3,Mar,Renault,137,False
+DL,Delhi,2024,4,Apr,Hyundai,2302,False
+DL,Delhi,2024,4,Apr,Kia,1394,False
+DL,Delhi,2024,4,Apr,Mahindra,1237,False
+DL,Delhi,2024,4,Apr,Maruti Suzuki,6341,False
+DL,Delhi,2024,4,Apr,Renault,142,False
+DL,Delhi,2024,5,May,Hyundai,1981,False
+DL,Delhi,2024,5,May,Kia,1209,False
+DL,Delhi,2024,5,May,Mahindra,1060,False
+DL,Delhi,2024,5,May,Maruti Suzuki,5340,False
+DL,Delhi,2024,5,May,Renault,146,False
+DL,Delhi,2024,6,Jun,Hyundai,1798,False
+DL,Delhi,2024,6,Jun,Kia,1247,False
+DL,Delhi,2024,6,Jun,Mahindra,1263,False
+DL,Delhi,2024,6,Jun,Maruti Suzuki,5475,False
+DL,Delhi,2024,6,Jun,Renault,114,False
+DL,Delhi,2024,7,Jul,Hyundai,2065,False
+DL,Delhi,2024,7,Jul,Kia,1218,False
+DL,Delhi,2024,7,Jul,Mahindra,1426,False
+DL,Delhi,2024,7,Jul,Maruti Suzuki,6152,False
+DL,Delhi,2024,7,Jul,Renault,110,False
+DL,Delhi,2024,8,Aug,Hyundai,1641,False
+DL,Delhi,2024,8,Aug,Kia,1170,False
+DL,Delhi,2024,8,Aug,Mahindra,1371,False
+DL,Delhi,2024,8,Aug,Maruti Suzuki,4990,False
+DL,Delhi,2024,8,Aug,Renault,84,False
+DL,Delhi,2024,9,Sep,Hyundai,1121,False
+DL,Delhi,2024,9,Sep,Kia,754,False
+DL,Delhi,2024,9,Sep,Mahindra,1015,False
+DL,Delhi,2024,9,Sep,Maruti Suzuki,3864,False
+DL,Delhi,2024,9,Sep,Renault,68,False
+DL,Delhi,2024,10,Oct,Hyundai,3194,False
+DL,Delhi,2024,10,Oct,Kia,1722,False
+DL,Delhi,2024,10,Oct,Mahindra,1993,False
+DL,Delhi,2024,10,Oct,Maruti Suzuki,9062,False
+DL,Delhi,2024,10,Oct,Renault,92,False
+DL,Delhi,2024,11,Nov,Hyundai,1801,False
+DL,Delhi,2024,11,Nov,Kia,1111,False
+DL,Delhi,2024,11,Nov,Mahindra,1208,False
+DL,Delhi,2024,11,Nov,Maruti Suzuki,5215,False
+DL,Delhi,2024,11,Nov,Renault,109,False
+DL,Delhi,2024,12,Dec,Hyundai,1574,False
+DL,Delhi,2024,12,Dec,Kia,1168,False
+DL,Delhi,2024,12,Dec,Mahindra,1110,False
+DL,Delhi,2024,12,Dec,Maruti Suzuki,5307,False
+DL,Delhi,2024,12,Dec,Renault,91,False
+DL,Delhi,2025,1,Jan,Hyundai,2683,False
+DL,Delhi,2025,1,Jan,Kia,1462,False
+DL,Delhi,2025,1,Jan,Mahindra,1757,False
+DL,Delhi,2025,1,Jan,Maruti Suzuki,10363,False
+DL,Delhi,2025,1,Jan,Renault,125,False
+DL,Delhi,2025,2,Feb,Hyundai,1647,False
+DL,Delhi,2025,2,Feb,Kia,1099,False
+DL,Delhi,2025,2,Feb,Mahindra,1479,False
+DL,Delhi,2025,2,Feb,Maruti Suzuki,4467,False
+DL,Delhi,2025,2,Feb,Renault,105,False
+DL,Delhi,2025,3,Mar,Hyundai,1774,False
+DL,Delhi,2025,3,Mar,Kia,1107,False
+DL,Delhi,2025,3,Mar,Mahindra,1432,False
+DL,Delhi,2025,3,Mar,Maruti Suzuki,4938,False
+DL,Delhi,2025,3,Mar,Renault,64,False
+DL,Delhi,2025,4,Apr,Hyundai,1827,False
+DL,Delhi,2025,4,Apr,Kia,1284,False
+DL,Delhi,2025,4,Apr,Mahindra,1340,False
+DL,Delhi,2025,4,Apr,Maruti Suzuki,6204,False
+DL,Delhi,2025,4,Apr,Renault,86,False
+DL,Delhi,2025,5,May,Hyundai,1612,False
+DL,Delhi,2025,5,May,Kia,962,False
+DL,Delhi,2025,5,May,Mahindra,1338,False
+DL,Delhi,2025,5,May,Maruti Suzuki,4863,False
+DL,Delhi,2025,5,May,Renault,81,False
+DL,Delhi,2025,6,Jun,Hyundai,1709,False
+DL,Delhi,2025,6,Jun,Kia,1056,False
+DL,Delhi,2025,6,Jun,Mahindra,1208,False
+DL,Delhi,2025,6,Jun,Maruti Suzuki,4615,False
+DL,Delhi,2025,6,Jun,Renault,68,False
+DL,Delhi,2025,7,Jul,Hyundai,1832,False
+DL,Delhi,2025,7,Jul,Kia,1146,False
+DL,Delhi,2025,7,Jul,Mahindra,1172,False
+DL,Delhi,2025,7,Jul,Maruti Suzuki,5189,False
+DL,Delhi,2025,7,Jul,Renault,84,False
+DL,Delhi,2025,8,Aug,Hyundai,1580,False
+DL,Delhi,2025,8,Aug,Kia,828,False
+DL,Delhi,2025,8,Aug,Mahindra,1180,False
+DL,Delhi,2025,8,Aug,Maruti Suzuki,4589,False
+DL,Delhi,2025,8,Aug,Renault,80,False
+DL,Delhi,2025,9,Sep,Hyundai,1339,False
+DL,Delhi,2025,9,Sep,Kia,809,False
+DL,Delhi,2025,9,Sep,Mahindra,943,False
+DL,Delhi,2025,9,Sep,Maruti Suzuki,3794,False
+DL,Delhi,2025,9,Sep,Renault,69,False
+DL,Delhi,2025,10,Oct,Hyundai,2339,False
+DL,Delhi,2025,10,Oct,Kia,1531,False
+DL,Delhi,2025,10,Oct,Mahindra,1803,False
+DL,Delhi,2025,10,Oct,Maruti Suzuki,8960,False
+DL,Delhi,2025,10,Oct,Renault,121,False
+DL,Delhi,2025,11,Nov,Hyundai,1815,False
+DL,Delhi,2025,11,Nov,Kia,1202,False
+DL,Delhi,2025,11,Nov,Mahindra,1345,False
+DL,Delhi,2025,11,Nov,Maruti Suzuki,5692,False
+DL,Delhi,2025,11,Nov,Renault,148,False
+DL,Delhi,2025,12,Dec,Hyundai,1843,False
+DL,Delhi,2025,12,Dec,Kia,1028,False
+DL,Delhi,2025,12,Dec,Mahindra,1180,False
+DL,Delhi,2025,12,Dec,Maruti Suzuki,6108,False
+DL,Delhi,2025,12,Dec,Renault,78,False
+DL,Delhi,2026,1,Jan,Hyundai,2659,True
+DL,Delhi,2026,1,Jan,Kia,1646,True
+DL,Delhi,2026,1,Jan,Mahindra,1778,True
+DL,Delhi,2026,1,Jan,Maruti Suzuki,9825,True
+DL,Delhi,2026,1,Jan,Renault,161,True
+DL,Delhi,2026,2,Feb,Hyundai,1472,True
+DL,Delhi,2026,2,Feb,Kia,1189,True
+DL,Delhi,2026,2,Feb,Mahindra,1280,True
+DL,Delhi,2026,2,Feb,Maruti Suzuki,5355,True
+DL,Delhi,2026,2,Feb,Renault,86,True
+DL,Delhi,2026,3,Mar,Hyundai,1873,True
+DL,Delhi,2026,3,Mar,Kia,1303,True
+DL,Delhi,2026,3,Mar,Mahindra,1589,True
+DL,Delhi,2026,3,Mar,Maruti Suzuki,6967,True
+DL,Delhi,2026,3,Mar,Renault,122,True
+DL,Delhi,2026,4,Apr,Hyundai,1637,True
+DL,Delhi,2026,4,Apr,Kia,1298,True
+DL,Delhi,2026,4,Apr,Mahindra,1262,True
+DL,Delhi,2026,4,Apr,Maruti Suzuki,6524,True
+DL,Delhi,2026,4,Apr,Renault,139,True
+DL,Delhi,2026,5,May,Hyundai,1659,True
+DL,Delhi,2026,5,May,Kia,1238,True
+DL,Delhi,2026,5,May,Mahindra,1337,True
+DL,Delhi,2026,5,May,Maruti Suzuki,7052,True
+DL,Delhi,2026,5,May,Renault,152,True
+DL,Delhi,2026,6,Jun,Hyundai,1535,True
+DL,Delhi,2026,6,Jun,Kia,1103,True
+DL,Delhi,2026,6,Jun,Mahindra,1314,True
+DL,Delhi,2026,6,Jun,Maruti Suzuki,7254,True
+DL,Delhi,2026,6,Jun,Renault,126,True
+DL,Delhi,2026,7,Jul,Hyundai,1587,True
+DL,Delhi,2026,7,Jul,Kia,1170,True
+DL,Delhi,2026,7,Jul,Mahindra,1296,True
+DL,Delhi,2026,7,Jul,Maruti Suzuki,6258,True
+DL,Delhi,2026,7,Jul,Renault,99,True
+DL,Delhi,2026,8,Aug,Hyundai,1596,True
+DL,Delhi,2026,8,Aug,Kia,1056,True
+DL,Delhi,2026,8,Aug,Mahindra,1129,True
+DL,Delhi,2026,8,Aug,Maruti Suzuki,6437,True
+DL,Delhi,2026,8,Aug,Renault,82,True
+DL,Delhi,2026,9,Sep,Hyundai,1114,True
+DL,Delhi,2026,9,Sep,Kia,796,True
+DL,Delhi,2026,9,Sep,Mahindra,915,True
+DL,Delhi,2026,9,Sep,Maruti Suzuki,4232,True
+DL,Delhi,2026,9,Sep,Renault,80,True
+KA,Karnataka,2021,1,Jan,Hyundai,5022,False
+KA,Karnataka,2021,1,Jan,Kia,2116,False
+KA,Karnataka,2021,1,Jan,Mahindra,988,False
+KA,Karnataka,2021,1,Jan,Maruti Suzuki,11044,False
+KA,Karnataka,2021,1,Jan,Renault,1434,False
+KA,Karnataka,2021,2,Feb,Hyundai,3297,False
+KA,Karnataka,2021,2,Feb,Kia,1579,False
+KA,Karnataka,2021,2,Feb,Mahindra,736,False
+KA,Karnataka,2021,2,Feb,Maruti Suzuki,7782,False
+KA,Karnataka,2021,2,Feb,Renault,838,False
+KA,Karnataka,2021,3,Mar,Hyundai,3862,False
+KA,Karnataka,2021,3,Mar,Kia,1806,False
+KA,Karnataka,2021,3,Mar,Mahindra,692,False
+KA,Karnataka,2021,3,Mar,Maruti Suzuki,8750,False
+KA,Karnataka,2021,3,Mar,Renault,1148,False
+KA,Karnataka,2021,4,Apr,Hyundai,2708,False
+KA,Karnataka,2021,4,Apr,Kia,1345,False
+KA,Karnataka,2021,4,Apr,Mahindra,715,False
+KA,Karnataka,2021,4,Apr,Maruti Suzuki,6671,False
+KA,Karnataka,2021,4,Apr,Renault,815,False
+KA,Karnataka,2021,5,May,Hyundai,116,False
+KA,Karnataka,2021,5,May,Kia,42,False
+KA,Karnataka,2021,5,May,Mahindra,55,False
+KA,Karnataka,2021,5,May,Maruti Suzuki,269,False
+KA,Karnataka,2021,5,May,Renault,38,False
+KA,Karnataka,2021,6,Jun,Hyundai,1410,False
+KA,Karnataka,2021,6,Jun,Kia,908,False
+KA,Karnataka,2021,6,Jun,Mahindra,297,False
+KA,Karnataka,2021,6,Jun,Maruti Suzuki,2568,False
+KA,Karnataka,2021,6,Jun,Renault,433,False
+KA,Karnataka,2021,7,Jul,Hyundai,3656,False
+KA,Karnataka,2021,7,Jul,Kia,2143,False
+KA,Karnataka,2021,7,Jul,Mahindra,1028,False
+KA,Karnataka,2021,7,Jul,Maruti Suzuki,7295,False
+KA,Karnataka,2021,7,Jul,Renault,1089,False
+KA,Karnataka,2021,8,Aug,Hyundai,3897,False
+KA,Karnataka,2021,8,Aug,Kia,2071,False
+KA,Karnataka,2021,8,Aug,Mahindra,1147,False
+KA,Karnataka,2021,8,Aug,Maruti Suzuki,7391,False
+KA,Karnataka,2021,8,Aug,Renault,1015,False
+KA,Karnataka,2021,9,Sep,Hyundai,3851,False
+KA,Karnataka,2021,9,Sep,Kia,1707,False
+KA,Karnataka,2021,9,Sep,Mahindra,918,False
+KA,Karnataka,2021,9,Sep,Maruti Suzuki,7886,False
+KA,Karnataka,2021,9,Sep,Renault,1106,False
+KA,Karnataka,2021,10,Oct,Hyundai,3217,False
+KA,Karnataka,2021,10,Oct,Kia,1450,False
+KA,Karnataka,2021,10,Oct,Mahindra,824,False
+KA,Karnataka,2021,10,Oct,Maruti Suzuki,5874,False
+KA,Karnataka,2021,10,Oct,Renault,1236,False
+KA,Karnataka,2021,11,Nov,Hyundai,2753,False
+KA,Karnataka,2021,11,Nov,Kia,1350,False
+KA,Karnataka,2021,11,Nov,Mahindra,923,False
+KA,Karnataka,2021,11,Nov,Maruti Suzuki,5796,False
+KA,Karnataka,2021,11,Nov,Renault,999,False
+KA,Karnataka,2021,12,Dec,Hyundai,2665,False
+KA,Karnataka,2021,12,Dec,Kia,1191,False
+KA,Karnataka,2021,12,Dec,Mahindra,941,False
+KA,Karnataka,2021,12,Dec,Maruti Suzuki,4886,False
+KA,Karnataka,2021,12,Dec,Renault,1050,False
+KA,Karnataka,2022,1,Jan,Hyundai,2846,False
+KA,Karnataka,2022,1,Jan,Kia,1205,False
+KA,Karnataka,2022,1,Jan,Mahindra,1208,False
+KA,Karnataka,2022,1,Jan,Maruti Suzuki,8860,False
+KA,Karnataka,2022,1,Jan,Renault,958,False
+KA,Karnataka,2022,2,Feb,Hyundai,2635,False
+KA,Karnataka,2022,2,Feb,Kia,1190,False
+KA,Karnataka,2022,2,Feb,Mahindra,985,False
+KA,Karnataka,2022,2,Feb,Maruti Suzuki,5921,False
+KA,Karnataka,2022,2,Feb,Renault,691,False
+KA,Karnataka,2022,3,Mar,Hyundai,3410,False
+KA,Karnataka,2022,3,Mar,Kia,2126,False
+KA,Karnataka,2022,3,Mar,Mahindra,1272,False
+KA,Karnataka,2022,3,Mar,Maruti Suzuki,7389,False
+KA,Karnataka,2022,3,Mar,Renault,874,False
+KA,Karnataka,2022,4,Apr,Hyundai,3246,False
+KA,Karnataka,2022,4,Apr,Kia,2164,False
+KA,Karnataka,2022,4,Apr,Mahindra,1528,False
+KA,Karnataka,2022,4,Apr,Maruti Suzuki,8089,False
+KA,Karnataka,2022,4,Apr,Renault,951,False
+KA,Karnataka,2022,5,May,Hyundai,2944,False
+KA,Karnataka,2022,5,May,Kia,1967,False
+KA,Karnataka,2022,5,May,Mahindra,1281,False
+KA,Karnataka,2022,5,May,Maruti Suzuki,7191,False
+KA,Karnataka,2022,5,May,Renault,813,False
+KA,Karnataka,2022,6,Jun,Hyundai,3095,False
+KA,Karnataka,2022,6,Jun,Kia,2113,False
+KA,Karnataka,2022,6,Jun,Mahindra,1397,False
+KA,Karnataka,2022,6,Jun,Maruti Suzuki,7861,False
+KA,Karnataka,2022,6,Jun,Renault,778,False
+KA,Karnataka,2022,7,Jul,Hyundai,3148,False
+KA,Karnataka,2022,7,Jul,Kia,1972,False
+KA,Karnataka,2022,7,Jul,Mahindra,1371,False
+KA,Karnataka,2022,7,Jul,Maruti Suzuki,5722,False
+KA,Karnataka,2022,7,Jul,Renault,785,False
+KA,Karnataka,2022,8,Aug,Hyundai,3656,False
+KA,Karnataka,2022,8,Aug,Kia,2030,False
+KA,Karnataka,2022,8,Aug,Mahindra,1628,False
+KA,Karnataka,2022,8,Aug,Maruti Suzuki,7830,False
+KA,Karnataka,2022,8,Aug,Renault,853,False
+KA,Karnataka,2022,9,Sep,Hyundai,3638,False
+KA,Karnataka,2022,9,Sep,Kia,2348,False
+KA,Karnataka,2022,9,Sep,Mahindra,1952,False
+KA,Karnataka,2022,9,Sep,Maruti Suzuki,8113,False
+KA,Karnataka,2022,9,Sep,Renault,897,False
+KA,Karnataka,2022,10,Oct,Hyundai,3506,False
+KA,Karnataka,2022,10,Oct,Kia,2259,False
+KA,Karnataka,2022,10,Oct,Mahindra,2032,False
+KA,Karnataka,2022,10,Oct,Maruti Suzuki,8966,False
+KA,Karnataka,2022,10,Oct,Renault,975,False
+KA,Karnataka,2022,11,Nov,Hyundai,3578,False
+KA,Karnataka,2022,11,Nov,Kia,2279,False
+KA,Karnataka,2022,11,Nov,Mahindra,2045,False
+KA,Karnataka,2022,11,Nov,Maruti Suzuki,7938,False
+KA,Karnataka,2022,11,Nov,Renault,772,False
+KA,Karnataka,2022,12,Dec,Hyundai,3207,False
+KA,Karnataka,2022,12,Dec,Kia,2016,False
+KA,Karnataka,2022,12,Dec,Mahindra,2192,False
+KA,Karnataka,2022,12,Dec,Maruti Suzuki,7447,False
+KA,Karnataka,2022,12,Dec,Renault,789,False
+KA,Karnataka,2023,1,Jan,Hyundai,3183,False
+KA,Karnataka,2023,1,Jan,Kia,2016,False
+KA,Karnataka,2023,1,Jan,Mahindra,2500,False
+KA,Karnataka,2023,1,Jan,Maruti Suzuki,10051,False
+KA,Karnataka,2023,1,Jan,Renault,920,False
+KA,Karnataka,2023,2,Feb,Hyundai,2923,False
+KA,Karnataka,2023,2,Feb,Kia,2128,False
+KA,Karnataka,2023,2,Feb,Mahindra,2064,False
+KA,Karnataka,2023,2,Feb,Maruti Suzuki,7398,False
+KA,Karnataka,2023,2,Feb,Renault,481,False
+KA,Karnataka,2023,3,Mar,Hyundai,3771,False
+KA,Karnataka,2023,3,Mar,Kia,2165,False
+KA,Karnataka,2023,3,Mar,Mahindra,2682,False
+KA,Karnataka,2023,3,Mar,Maruti Suzuki,9802,False
+KA,Karnataka,2023,3,Mar,Renault,656,False
+KA,Karnataka,2023,4,Apr,Hyundai,3152,False
+KA,Karnataka,2023,4,Apr,Kia,1911,False
+KA,Karnataka,2023,4,Apr,Mahindra,2138,False
+KA,Karnataka,2023,4,Apr,Maruti Suzuki,7226,False
+KA,Karnataka,2023,4,Apr,Renault,531,False
+KA,Karnataka,2023,5,May,Hyundai,3397,False
+KA,Karnataka,2023,5,May,Kia,1598,False
+KA,Karnataka,2023,5,May,Mahindra,2141,False
+KA,Karnataka,2023,5,May,Maruti Suzuki,7627,False
+KA,Karnataka,2023,5,May,Renault,493,False
+KA,Karnataka,2023,6,Jun,Hyundai,3391,False
+KA,Karnataka,2023,6,Jun,Kia,1791,False
+KA,Karnataka,2023,6,Jun,Mahindra,2243,False
+KA,Karnataka,2023,6,Jun,Maruti Suzuki,9113,False
+KA,Karnataka,2023,6,Jun,Renault,561,False
+KA,Karnataka,2023,7,Jul,Hyundai,3368,False
+KA,Karnataka,2023,7,Jul,Kia,1690,False
+KA,Karnataka,2023,7,Jul,Mahindra,2139,False
+KA,Karnataka,2023,7,Jul,Maruti Suzuki,8402,False
+KA,Karnataka,2023,7,Jul,Renault,568,False
+KA,Karnataka,2023,8,Aug,Hyundai,4206,False
+KA,Karnataka,2023,8,Aug,Kia,2227,False
+KA,Karnataka,2023,8,Aug,Mahindra,2375,False
+KA,Karnataka,2023,8,Aug,Maruti Suzuki,10797,False
+KA,Karnataka,2023,8,Aug,Renault,584,False
+KA,Karnataka,2023,9,Sep,Hyundai,3610,False
+KA,Karnataka,2023,9,Sep,Kia,2132,False
+KA,Karnataka,2023,9,Sep,Mahindra,2282,False
+KA,Karnataka,2023,9,Sep,Maruti Suzuki,9292,False
+KA,Karnataka,2023,9,Sep,Renault,459,False
+KA,Karnataka,2023,10,Oct,Hyundai,3699,False
+KA,Karnataka,2023,10,Oct,Kia,2092,False
+KA,Karnataka,2023,10,Oct,Mahindra,2624,False
+KA,Karnataka,2023,10,Oct,Maruti Suzuki,9320,False
+KA,Karnataka,2023,10,Oct,Renault,487,False
+KA,Karnataka,2023,11,Nov,Hyundai,3823,False
+KA,Karnataka,2023,11,Nov,Kia,1853,False
+KA,Karnataka,2023,11,Nov,Mahindra,2660,False
+KA,Karnataka,2023,11,Nov,Maruti Suzuki,9585,False
+KA,Karnataka,2023,11,Nov,Renault,461,False
+KA,Karnataka,2023,12,Dec,Hyundai,3567,False
+KA,Karnataka,2023,12,Dec,Kia,1583,False
+KA,Karnataka,2023,12,Dec,Mahindra,2402,False
+KA,Karnataka,2023,12,Dec,Maruti Suzuki,7217,False
+KA,Karnataka,2023,12,Dec,Renault,427,False
+KA,Karnataka,2024,1,Jan,Hyundai,4180,False
+KA,Karnataka,2024,1,Jan,Kia,1772,False
+KA,Karnataka,2024,1,Jan,Mahindra,2777,False
+KA,Karnataka,2024,1,Jan,Maruti Suzuki,12739,False
+KA,Karnataka,2024,1,Jan,Renault,523,False
+KA,Karnataka,2024,2,Feb,Hyundai,3497,False
+KA,Karnataka,2024,2,Feb,Kia,1970,False
+KA,Karnataka,2024,2,Feb,Mahindra,2574,False
+KA,Karnataka,2024,2,Feb,Maruti Suzuki,9023,False
+KA,Karnataka,2024,2,Feb,Renault,442,False
+KA,Karnataka,2024,3,Mar,Hyundai,3542,False
+KA,Karnataka,2024,3,Mar,Kia,2168,False
+KA,Karnataka,2024,3,Mar,Mahindra,2538,False
+KA,Karnataka,2024,3,Mar,Maruti Suzuki,9689,False
+KA,Karnataka,2024,3,Mar,Renault,431,False
+KA,Karnataka,2024,4,Apr,Hyundai,3276,False
+KA,Karnataka,2024,4,Apr,Kia,1366,False
+KA,Karnataka,2024,4,Apr,Mahindra,2262,False
+KA,Karnataka,2024,4,Apr,Maruti Suzuki,9358,False
+KA,Karnataka,2024,4,Apr,Renault,447,False
+KA,Karnataka,2024,5,May,Hyundai,3415,False
+KA,Karnataka,2024,5,May,Kia,1669,False
+KA,Karnataka,2024,5,May,Mahindra,2226,False
+KA,Karnataka,2024,5,May,Maruti Suzuki,8839,False
+KA,Karnataka,2024,5,May,Renault,428,False
+KA,Karnataka,2024,6,Jun,Hyundai,3076,False
+KA,Karnataka,2024,6,Jun,Kia,1430,False
+KA,Karnataka,2024,6,Jun,Mahindra,2741,False
+KA,Karnataka,2024,6,Jun,Maruti Suzuki,8941,False
+KA,Karnataka,2024,6,Jun,Renault,414,False
+KA,Karnataka,2024,7,Jul,Hyundai,2688,False
+KA,Karnataka,2024,7,Jul,Kia,1318,False
+KA,Karnataka,2024,7,Jul,Mahindra,2365,False
+KA,Karnataka,2024,7,Jul,Maruti Suzuki,7203,False
+KA,Karnataka,2024,7,Jul,Renault,324,False
+KA,Karnataka,2024,8,Aug,Hyundai,3897,False
+KA,Karnataka,2024,8,Aug,Kia,1755,False
+KA,Karnataka,2024,8,Aug,Mahindra,3662,False
+KA,Karnataka,2024,8,Aug,Maruti Suzuki,11052,False
+KA,Karnataka,2024,8,Aug,Renault,460,False
+KA,Karnataka,2024,9,Sep,Hyundai,2627,False
+KA,Karnataka,2024,9,Sep,Kia,1132,False
+KA,Karnataka,2024,9,Sep,Mahindra,2212,False
+KA,Karnataka,2024,9,Sep,Maruti Suzuki,7255,False
+KA,Karnataka,2024,9,Sep,Renault,315,False
+KA,Karnataka,2024,10,Oct,Hyundai,4660,False
+KA,Karnataka,2024,10,Oct,Kia,2092,False
+KA,Karnataka,2024,10,Oct,Mahindra,4285,False
+KA,Karnataka,2024,10,Oct,Maruti Suzuki,11635,False
+KA,Karnataka,2024,10,Oct,Renault,580,False
+KA,Karnataka,2024,11,Nov,Hyundai,3151,False
+KA,Karnataka,2024,11,Nov,Kia,1496,False
+KA,Karnataka,2024,11,Nov,Mahindra,3192,False
+KA,Karnataka,2024,11,Nov,Maruti Suzuki,8234,False
+KA,Karnataka,2024,11,Nov,Renault,342,False
+KA,Karnataka,2024,12,Dec,Hyundai,3129,False
+KA,Karnataka,2024,12,Dec,Kia,1489,False
+KA,Karnataka,2024,12,Dec,Mahindra,2547,False
+KA,Karnataka,2024,12,Dec,Maruti Suzuki,6092,False
+KA,Karnataka,2024,12,Dec,Renault,271,False
+KA,Karnataka,2025,1,Jan,Hyundai,4401,False
+KA,Karnataka,2025,1,Jan,Kia,1677,False
+KA,Karnataka,2025,1,Jan,Mahindra,3603,False
+KA,Karnataka,2025,1,Jan,Maruti Suzuki,13672,False
+KA,Karnataka,2025,1,Jan,Renault,482,False
+KA,Karnataka,2025,2,Feb,Hyundai,2759,False
+KA,Karnataka,2025,2,Feb,Kia,1240,False
+KA,Karnataka,2025,2,Feb,Mahindra,2658,False
+KA,Karnataka,2025,2,Feb,Maruti Suzuki,7260,False
+KA,Karnataka,2025,2,Feb,Renault,209,False
+KA,Karnataka,2025,3,Mar,Hyundai,3359,False
+KA,Karnataka,2025,3,Mar,Kia,1782,False
+KA,Karnataka,2025,3,Mar,Mahindra,3293,False
+KA,Karnataka,2025,3,Mar,Maruti Suzuki,8619,False
+KA,Karnataka,2025,3,Mar,Renault,338,False
+KA,Karnataka,2025,4,Apr,Hyundai,3340,False
+KA,Karnataka,2025,4,Apr,Kia,1473,False
+KA,Karnataka,2025,4,Apr,Mahindra,3478,False
+KA,Karnataka,2025,4,Apr,Maruti Suzuki,8823,False
+KA,Karnataka,2025,4,Apr,Renault,288,False
+KA,Karnataka,2025,5,May,Hyundai,3032,False
+KA,Karnataka,2025,5,May,Kia,1185,False
+KA,Karnataka,2025,5,May,Mahindra,3340,False
+KA,Karnataka,2025,5,May,Maruti Suzuki,7739,False
+KA,Karnataka,2025,5,May,Renault,291,False
+KA,Karnataka,2025,6,Jun,Hyundai,2846,False
+KA,Karnataka,2025,6,Jun,Kia,1427,False
+KA,Karnataka,2025,6,Jun,Mahindra,3008,False
+KA,Karnataka,2025,6,Jun,Maruti Suzuki,7345,False
+KA,Karnataka,2025,6,Jun,Renault,301,False
+KA,Karnataka,2025,7,Jul,Hyundai,3006,False
+KA,Karnataka,2025,7,Jul,Kia,1323,False
+KA,Karnataka,2025,7,Jul,Mahindra,2664,False
+KA,Karnataka,2025,7,Jul,Maruti Suzuki,7843,False
+KA,Karnataka,2025,7,Jul,Renault,224,False
+KA,Karnataka,2025,8,Aug,Hyundai,3582,False
+KA,Karnataka,2025,8,Aug,Kia,1554,False
+KA,Karnataka,2025,8,Aug,Mahindra,3762,False
+KA,Karnataka,2025,8,Aug,Maruti Suzuki,10108,False
+KA,Karnataka,2025,8,Aug,Renault,377,False
+KA,Karnataka,2025,9,Sep,Hyundai,2688,False
+KA,Karnataka,2025,9,Sep,Kia,1371,False
+KA,Karnataka,2025,9,Sep,Mahindra,2555,False
+KA,Karnataka,2025,9,Sep,Maruti Suzuki,8099,False
+KA,Karnataka,2025,9,Sep,Renault,431,False
+KA,Karnataka,2025,10,Oct,Hyundai,4754,False
+KA,Karnataka,2025,10,Oct,Kia,2355,False
+KA,Karnataka,2025,10,Oct,Mahindra,4164,False
+KA,Karnataka,2025,10,Oct,Maruti Suzuki,14231,False
+KA,Karnataka,2025,10,Oct,Renault,694,False
+KA,Karnataka,2025,11,Nov,Hyundai,3460,False
+KA,Karnataka,2025,11,Nov,Kia,1705,False
+KA,Karnataka,2025,11,Nov,Mahindra,4135,False
+KA,Karnataka,2025,11,Nov,Maruti Suzuki,9949,False
+KA,Karnataka,2025,11,Nov,Renault,463,False
+KA,Karnataka,2025,12,Dec,Hyundai,3577,False
+KA,Karnataka,2025,12,Dec,Kia,1602,False
+KA,Karnataka,2025,12,Dec,Mahindra,3279,False
+KA,Karnataka,2025,12,Dec,Maruti Suzuki,7670,False
+KA,Karnataka,2025,12,Dec,Renault,429,False
+KA,Karnataka,2026,1,Jan,Hyundai,5183,True
+KA,Karnataka,2026,1,Jan,Kia,2186,True
+KA,Karnataka,2026,1,Jan,Mahindra,3970,True
+KA,Karnataka,2026,1,Jan,Maruti Suzuki,14951,True
+KA,Karnataka,2026,1,Jan,Renault,648,True
+KA,Karnataka,2026,2,Feb,Hyundai,3212,True
+KA,Karnataka,2026,2,Feb,Kia,1656,True
+KA,Karnataka,2026,2,Feb,Mahindra,3580,True
+KA,Karnataka,2026,2,Feb,Maruti Suzuki,9548,True
+KA,Karnataka,2026,2,Feb,Renault,364,True
+KA,Karnataka,2026,3,Mar,Hyundai,3573,True
+KA,Karnataka,2026,3,Mar,Kia,2061,True
+KA,Karnataka,2026,3,Mar,Mahindra,4199,True
+KA,Karnataka,2026,3,Mar,Maruti Suzuki,11117,True
+KA,Karnataka,2026,3,Mar,Renault,442,True
+KA,Karnataka,2026,4,Apr,Hyundai,3966,True
+KA,Karnataka,2026,4,Apr,Kia,2091,True
+KA,Karnataka,2026,4,Apr,Mahindra,4050,True
+KA,Karnataka,2026,4,Apr,Maruti Suzuki,11305,True
+KA,Karnataka,2026,4,Apr,Renault,614,True
+KA,Karnataka,2026,5,May,Hyundai,3436,True
+KA,Karnataka,2026,5,May,Kia,1722,True
+KA,Karnataka,2026,5,May,Mahindra,3108,True
+KA,Karnataka,2026,5,May,Maruti Suzuki,10113,True
+KA,Karnataka,2026,5,May,Renault,558,True
+KA,Karnataka,2026,6,Jun,Hyundai,3521,True
+KA,Karnataka,2026,6,Jun,Kia,1714,True
+KA,Karnataka,2026,6,Jun,Mahindra,3768,True
+KA,Karnataka,2026,6,Jun,Maruti Suzuki,10458,True
+KA,Karnataka,2026,6,Jun,Renault,536,True
+KA,Karnataka,2026,7,Jul,Hyundai,3646,True
+KA,Karnataka,2026,7,Jul,Kia,1678,True
+KA,Karnataka,2026,7,Jul,Mahindra,3963,True
+KA,Karnataka,2026,7,Jul,Maruti Suzuki,9704,True
+KA,Karnataka,2026,7,Jul,Renault,437,True
+KA,Karnataka,2026,8,Aug,Hyundai,4134,True
+KA,Karnataka,2026,8,Aug,Kia,1834,True
+KA,Karnataka,2026,8,Aug,Mahindra,3780,True
+KA,Karnataka,2026,8,Aug,Maruti Suzuki,11649,True
+KA,Karnataka,2026,8,Aug,Renault,449,True
+KA,Karnataka,2026,9,Sep,Hyundai,2790,True
+KA,Karnataka,2026,9,Sep,Kia,1300,True
+KA,Karnataka,2026,9,Sep,Mahindra,2565,True
+KA,Karnataka,2026,9,Sep,Maruti Suzuki,7102,True
+KA,Karnataka,2026,9,Sep,Renault,316,True
+MH,Maharashtra,2021,1,Jan,Hyundai,6380,False
+MH,Maharashtra,2021,1,Jan,Kia,2347,False
+MH,Maharashtra,2021,1,Jan,Mahindra,1380,False
+MH,Maharashtra,2021,1,Jan,Maruti Suzuki,17853,False
+MH,Maharashtra,2021,1,Jan,Renault,1201,False
+MH,Maharashtra,2021,2,Feb,Hyundai,5602,False
+MH,Maharashtra,2021,2,Feb,Kia,2167,False
+MH,Maharashtra,2021,2,Feb,Mahindra,1360,False
+MH,Maharashtra,2021,2,Feb,Maruti Suzuki,14762,False
+MH,Maharashtra,2021,2,Feb,Renault,728,False
+MH,Maharashtra,2021,3,Mar,Hyundai,5878,False
+MH,Maharashtra,2021,3,Mar,Kia,2250,False
+MH,Maharashtra,2021,3,Mar,Mahindra,1345,False
+MH,Maharashtra,2021,3,Mar,Maruti Suzuki,15868,False
+MH,Maharashtra,2021,3,Mar,Renault,1058,False
+MH,Maharashtra,2021,4,Apr,Hyundai,2543,False
+MH,Maharashtra,2021,4,Apr,Kia,1098,False
+MH,Maharashtra,2021,4,Apr,Mahindra,767,False
+MH,Maharashtra,2021,4,Apr,Maruti Suzuki,7986,False
+MH,Maharashtra,2021,4,Apr,Renault,543,False
+MH,Maharashtra,2021,5,May,Hyundai,2522,False
+MH,Maharashtra,2021,5,May,Kia,534,False
+MH,Maharashtra,2021,5,May,Mahindra,510,False
+MH,Maharashtra,2021,5,May,Maruti Suzuki,5994,False
+MH,Maharashtra,2021,5,May,Renault,331,False
+MH,Maharashtra,2021,6,Jun,Hyundai,5033,False
+MH,Maharashtra,2021,6,Jun,Kia,1940,False
+MH,Maharashtra,2021,6,Jun,Mahindra,1254,False
+MH,Maharashtra,2021,6,Jun,Maruti Suzuki,9351,False
+MH,Maharashtra,2021,6,Jun,Renault,710,False
+MH,Maharashtra,2021,7,Jul,Hyundai,6623,False
+MH,Maharashtra,2021,7,Jul,Kia,2895,False
+MH,Maharashtra,2021,7,Jul,Mahindra,1714,False
+MH,Maharashtra,2021,7,Jul,Maruti Suzuki,16091,False
+MH,Maharashtra,2021,7,Jul,Renault,1032,False
+MH,Maharashtra,2021,8,Aug,Hyundai,6197,False
+MH,Maharashtra,2021,8,Aug,Kia,2579,False
+MH,Maharashtra,2021,8,Aug,Mahindra,1539,False
+MH,Maharashtra,2021,8,Aug,Maruti Suzuki,14719,False
+MH,Maharashtra,2021,8,Aug,Renault,1034,False
+MH,Maharashtra,2021,9,Sep,Hyundai,4915,False
+MH,Maharashtra,2021,9,Sep,Kia,2112,False
+MH,Maharashtra,2021,9,Sep,Mahindra,1276,False
+MH,Maharashtra,2021,9,Sep,Maruti Suzuki,11077,False
+MH,Maharashtra,2021,9,Sep,Renault,1036,False
+MH,Maharashtra,2021,10,Oct,Hyundai,5423,False
+MH,Maharashtra,2021,10,Oct,Kia,2866,False
+MH,Maharashtra,2021,10,Oct,Mahindra,1463,False
+MH,Maharashtra,2021,10,Oct,Maruti Suzuki,12467,False
+MH,Maharashtra,2021,10,Oct,Renault,1300,False
+MH,Maharashtra,2021,11,Nov,Hyundai,4272,False
+MH,Maharashtra,2021,11,Nov,Kia,1815,False
+MH,Maharashtra,2021,11,Nov,Mahindra,1702,False
+MH,Maharashtra,2021,11,Nov,Maruti Suzuki,10894,False
+MH,Maharashtra,2021,11,Nov,Renault,1034,False
+MH,Maharashtra,2021,12,Dec,Hyundai,4455,False
+MH,Maharashtra,2021,12,Dec,Kia,1912,False
+MH,Maharashtra,2021,12,Dec,Mahindra,1601,False
+MH,Maharashtra,2021,12,Dec,Maruti Suzuki,10973,False
+MH,Maharashtra,2021,12,Dec,Renault,812,False
+MH,Maharashtra,2022,1,Jan,Hyundai,4983,False
+MH,Maharashtra,2022,1,Jan,Kia,1624,False
+MH,Maharashtra,2022,1,Jan,Mahindra,1701,False
+MH,Maharashtra,2022,1,Jan,Maruti Suzuki,16036,False
+MH,Maharashtra,2022,1,Jan,Renault,988,False
+MH,Maharashtra,2022,2,Feb,Hyundai,4603,False
+MH,Maharashtra,2022,2,Feb,Kia,2075,False
+MH,Maharashtra,2022,2,Feb,Mahindra,1727,False
+MH,Maharashtra,2022,2,Feb,Maruti Suzuki,12670,False
+MH,Maharashtra,2022,2,Feb,Renault,777,False
+MH,Maharashtra,2022,3,Mar,Hyundai,5624,False
+MH,Maharashtra,2022,3,Mar,Kia,2938,False
+MH,Maharashtra,2022,3,Mar,Mahindra,2292,False
+MH,Maharashtra,2022,3,Mar,Maruti Suzuki,14771,False
+MH,Maharashtra,2022,3,Mar,Renault,923,False
+MH,Maharashtra,2022,4,Apr,Hyundai,4899,False
+MH,Maharashtra,2022,4,Apr,Kia,2659,False
+MH,Maharashtra,2022,4,Apr,Mahindra,2392,False
+MH,Maharashtra,2022,4,Apr,Maruti Suzuki,10835,False
+MH,Maharashtra,2022,4,Apr,Renault,817,False
+MH,Maharashtra,2022,5,May,Hyundai,4937,False
+MH,Maharashtra,2022,5,May,Kia,2499,False
+MH,Maharashtra,2022,5,May,Mahindra,1821,False
+MH,Maharashtra,2022,5,May,Maruti Suzuki,13454,False
+MH,Maharashtra,2022,5,May,Renault,798,False
+MH,Maharashtra,2022,6,Jun,Hyundai,5268,False
+MH,Maharashtra,2022,6,Jun,Kia,2885,False
+MH,Maharashtra,2022,6,Jun,Mahindra,1895,False
+MH,Maharashtra,2022,6,Jun,Maruti Suzuki,13197,False
+MH,Maharashtra,2022,6,Jun,Renault,743,False
+MH,Maharashtra,2022,7,Jul,Hyundai,5802,False
+MH,Maharashtra,2022,7,Jul,Kia,2552,False
+MH,Maharashtra,2022,7,Jul,Mahindra,1896,False
+MH,Maharashtra,2022,7,Jul,Maruti Suzuki,12737,False
+MH,Maharashtra,2022,7,Jul,Renault,700,False
+MH,Maharashtra,2022,8,Aug,Hyundai,6392,False
+MH,Maharashtra,2022,8,Aug,Kia,3111,False
+MH,Maharashtra,2022,8,Aug,Mahindra,2219,False
+MH,Maharashtra,2022,8,Aug,Maruti Suzuki,14734,False
+MH,Maharashtra,2022,8,Aug,Renault,965,False
+MH,Maharashtra,2022,9,Sep,Hyundai,4942,False
+MH,Maharashtra,2022,9,Sep,Kia,2655,False
+MH,Maharashtra,2022,9,Sep,Mahindra,2340,False
+MH,Maharashtra,2022,9,Sep,Maruti Suzuki,12149,False
+MH,Maharashtra,2022,9,Sep,Renault,726,False
+MH,Maharashtra,2022,10,Oct,Hyundai,8090,False
+MH,Maharashtra,2022,10,Oct,Kia,3816,False
+MH,Maharashtra,2022,10,Oct,Mahindra,3815,False
+MH,Maharashtra,2022,10,Oct,Maruti Suzuki,19055,False
+MH,Maharashtra,2022,10,Oct,Renault,1343,False
+MH,Maharashtra,2022,11,Nov,Hyundai,5173,False
+MH,Maharashtra,2022,11,Nov,Kia,2429,False
+MH,Maharashtra,2022,11,Nov,Mahindra,2727,False
+MH,Maharashtra,2022,11,Nov,Maruti Suzuki,13126,False
+MH,Maharashtra,2022,11,Nov,Renault,745,False
+MH,Maharashtra,2022,12,Dec,Hyundai,4839,False
+MH,Maharashtra,2022,12,Dec,Kia,2351,False
+MH,Maharashtra,2022,12,Dec,Mahindra,2532,False
+MH,Maharashtra,2022,12,Dec,Maruti Suzuki,11764,False
+MH,Maharashtra,2022,12,Dec,Renault,700,False
+MH,Maharashtra,2023,1,Jan,Hyundai,6787,False
+MH,Maharashtra,2023,1,Jan,Kia,2948,False
+MH,Maharashtra,2023,1,Jan,Mahindra,3438,False
+MH,Maharashtra,2023,1,Jan,Maruti Suzuki,17363,False
+MH,Maharashtra,2023,1,Jan,Renault,958,False
+MH,Maharashtra,2023,2,Feb,Hyundai,4361,False
+MH,Maharashtra,2023,2,Feb,Kia,2586,False
+MH,Maharashtra,2023,2,Feb,Mahindra,2622,False
+MH,Maharashtra,2023,2,Feb,Maruti Suzuki,11024,False
+MH,Maharashtra,2023,2,Feb,Renault,531,False
+MH,Maharashtra,2023,3,Mar,Hyundai,6718,False
+MH,Maharashtra,2023,3,Mar,Kia,3015,False
+MH,Maharashtra,2023,3,Mar,Mahindra,3347,False
+MH,Maharashtra,2023,3,Mar,Maruti Suzuki,14717,False
+MH,Maharashtra,2023,3,Mar,Renault,709,False
+MH,Maharashtra,2023,4,Apr,Hyundai,5639,False
+MH,Maharashtra,2023,4,Apr,Kia,2416,False
+MH,Maharashtra,2023,4,Apr,Mahindra,3122,False
+MH,Maharashtra,2023,4,Apr,Maruti Suzuki,11897,False
+MH,Maharashtra,2023,4,Apr,Renault,474,False
+MH,Maharashtra,2023,5,May,Hyundai,5628,False
+MH,Maharashtra,2023,5,May,Kia,2240,False
+MH,Maharashtra,2023,5,May,Mahindra,3033,False
+MH,Maharashtra,2023,5,May,Maruti Suzuki,12946,False
+MH,Maharashtra,2023,5,May,Renault,500,False
+MH,Maharashtra,2023,6,Jun,Hyundai,5693,False
+MH,Maharashtra,2023,6,Jun,Kia,2207,False
+MH,Maharashtra,2023,6,Jun,Mahindra,2701,False
+MH,Maharashtra,2023,6,Jun,Maruti Suzuki,14057,False
+MH,Maharashtra,2023,6,Jun,Renault,532,False
+MH,Maharashtra,2023,7,Jul,Hyundai,5734,False
+MH,Maharashtra,2023,7,Jul,Kia,1960,False
+MH,Maharashtra,2023,7,Jul,Mahindra,3063,False
+MH,Maharashtra,2023,7,Jul,Maruti Suzuki,13992,False
+MH,Maharashtra,2023,7,Jul,Renault,522,False
+MH,Maharashtra,2023,8,Aug,Hyundai,6490,False
+MH,Maharashtra,2023,8,Aug,Kia,2691,False
+MH,Maharashtra,2023,8,Aug,Mahindra,2943,False
+MH,Maharashtra,2023,8,Aug,Maruti Suzuki,15840,False
+MH,Maharashtra,2023,8,Aug,Renault,529,False
+MH,Maharashtra,2023,9,Sep,Hyundai,6850,False
+MH,Maharashtra,2023,9,Sep,Kia,3227,False
+MH,Maharashtra,2023,9,Sep,Mahindra,3312,False
+MH,Maharashtra,2023,9,Sep,Maruti Suzuki,16621,False
+MH,Maharashtra,2023,9,Sep,Renault,532,False
+MH,Maharashtra,2023,10,Oct,Hyundai,7015,False
+MH,Maharashtra,2023,10,Oct,Kia,3121,False
+MH,Maharashtra,2023,10,Oct,Mahindra,3766,False
+MH,Maharashtra,2023,10,Oct,Maruti Suzuki,17461,False
+MH,Maharashtra,2023,10,Oct,Renault,600,False
+MH,Maharashtra,2023,11,Nov,Hyundai,7008,False
+MH,Maharashtra,2023,11,Nov,Kia,3194,False
+MH,Maharashtra,2023,11,Nov,Mahindra,4189,False
+MH,Maharashtra,2023,11,Nov,Maruti Suzuki,17790,False
+MH,Maharashtra,2023,11,Nov,Renault,520,False
+MH,Maharashtra,2023,12,Dec,Hyundai,4556,False
+MH,Maharashtra,2023,12,Dec,Kia,2030,False
+MH,Maharashtra,2023,12,Dec,Mahindra,2702,False
+MH,Maharashtra,2023,12,Dec,Maruti Suzuki,11289,False
+MH,Maharashtra,2023,12,Dec,Renault,335,False
+MH,Maharashtra,2024,1,Jan,Hyundai,7436,False
+MH,Maharashtra,2024,1,Jan,Kia,2687,False
+MH,Maharashtra,2024,1,Jan,Mahindra,4176,False
+MH,Maharashtra,2024,1,Jan,Maruti Suzuki,19696,False
+MH,Maharashtra,2024,1,Jan,Renault,501,False
+MH,Maharashtra,2024,2,Feb,Hyundai,5663,False
+MH,Maharashtra,2024,2,Feb,Kia,2489,False
+MH,Maharashtra,2024,2,Feb,Mahindra,3285,False
+MH,Maharashtra,2024,2,Feb,Maruti Suzuki,13071,False
+MH,Maharashtra,2024,2,Feb,Renault,382,False
+MH,Maharashtra,2024,3,Mar,Hyundai,5411,False
+MH,Maharashtra,2024,3,Mar,Kia,2577,False
+MH,Maharashtra,2024,3,Mar,Mahindra,3339,False
+MH,Maharashtra,2024,3,Mar,Maruti Suzuki,13070,False
+MH,Maharashtra,2024,3,Mar,Renault,412,False
+MH,Maharashtra,2024,4,Apr,Hyundai,7267,False
+MH,Maharashtra,2024,4,Apr,Kia,2624,False
+MH,Maharashtra,2024,4,Apr,Mahindra,3773,False
+MH,Maharashtra,2024,4,Apr,Maruti Suzuki,16952,False
+MH,Maharashtra,2024,4,Apr,Renault,515,False
+MH,Maharashtra,2024,5,May,Hyundai,6418,False
+MH,Maharashtra,2024,5,May,Kia,2566,False
+MH,Maharashtra,2024,5,May,Mahindra,3258,False
+MH,Maharashtra,2024,5,May,Maruti Suzuki,14637,False
+MH,Maharashtra,2024,5,May,Renault,464,False
+MH,Maharashtra,2024,6,Jun,Hyundai,5170,False
+MH,Maharashtra,2024,6,Jun,Kia,2030,False
+MH,Maharashtra,2024,6,Jun,Mahindra,3387,False
+MH,Maharashtra,2024,6,Jun,Maruti Suzuki,12913,False
+MH,Maharashtra,2024,6,Jun,Renault,343,False
+MH,Maharashtra,2024,7,Jul,Hyundai,5686,False
+MH,Maharashtra,2024,7,Jul,Kia,2317,False
+MH,Maharashtra,2024,7,Jul,Mahindra,3643,False
+MH,Maharashtra,2024,7,Jul,Maruti Suzuki,14710,False
+MH,Maharashtra,2024,7,Jul,Renault,387,False
+MH,Maharashtra,2024,8,Aug,Hyundai,6316,False
+MH,Maharashtra,2024,8,Aug,Kia,2568,False
+MH,Maharashtra,2024,8,Aug,Mahindra,4101,False
+MH,Maharashtra,2024,8,Aug,Maruti Suzuki,15512,False
+MH,Maharashtra,2024,8,Aug,Renault,399,False
+MH,Maharashtra,2024,9,Sep,Hyundai,5413,False
+MH,Maharashtra,2024,9,Sep,Kia,2136,False
+MH,Maharashtra,2024,9,Sep,Mahindra,3888,False
+MH,Maharashtra,2024,9,Sep,Maruti Suzuki,13918,False
+MH,Maharashtra,2024,9,Sep,Renault,342,False
+MH,Maharashtra,2024,10,Oct,Hyundai,11315,False
+MH,Maharashtra,2024,10,Oct,Kia,4502,False
+MH,Maharashtra,2024,10,Oct,Mahindra,7149,False
+MH,Maharashtra,2024,10,Oct,Maruti Suzuki,25752,False
+MH,Maharashtra,2024,10,Oct,Renault,710,False
+MH,Maharashtra,2024,11,Nov,Hyundai,5220,False
+MH,Maharashtra,2024,11,Nov,Kia,2018,False
+MH,Maharashtra,2024,11,Nov,Mahindra,4104,False
+MH,Maharashtra,2024,11,Nov,Maruti Suzuki,12589,False
+MH,Maharashtra,2024,11,Nov,Renault,300,False
+MH,Maharashtra,2024,12,Dec,Hyundai,4957,False
+MH,Maharashtra,2024,12,Dec,Kia,2041,False
+MH,Maharashtra,2024,12,Dec,Mahindra,3503,False
+MH,Maharashtra,2024,12,Dec,Maruti Suzuki,11079,False
+MH,Maharashtra,2024,12,Dec,Renault,244,False
+MH,Maharashtra,2025,1,Jan,Hyundai,8569,False
+MH,Maharashtra,2025,1,Jan,Kia,2850,False
+MH,Maharashtra,2025,1,Jan,Mahindra,5179,False
+MH,Maharashtra,2025,1,Jan,Maruti Suzuki,25354,False
+MH,Maharashtra,2025,1,Jan,Renault,486,False
+MH,Maharashtra,2025,2,Feb,Hyundai,4271,False
+MH,Maharashtra,2025,2,Feb,Kia,2047,False
+MH,Maharashtra,2025,2,Feb,Mahindra,3309,False
+MH,Maharashtra,2025,2,Feb,Maruti Suzuki,11211,False
+MH,Maharashtra,2025,2,Feb,Renault,207,False
+MH,Maharashtra,2025,3,Mar,Hyundai,7538,False
+MH,Maharashtra,2025,3,Mar,Kia,3321,False
+MH,Maharashtra,2025,3,Mar,Mahindra,4790,False
+MH,Maharashtra,2025,3,Mar,Maruti Suzuki,18687,False
+MH,Maharashtra,2025,3,Mar,Renault,360,False
+MH,Maharashtra,2025,4,Apr,Hyundai,6034,False
+MH,Maharashtra,2025,4,Apr,Kia,2663,False
+MH,Maharashtra,2025,4,Apr,Mahindra,4414,False
+MH,Maharashtra,2025,4,Apr,Maruti Suzuki,14832,False
+MH,Maharashtra,2025,4,Apr,Renault,325,False
+MH,Maharashtra,2025,5,May,Hyundai,4996,False
+MH,Maharashtra,2025,5,May,Kia,2147,False
+MH,Maharashtra,2025,5,May,Mahindra,3983,False
+MH,Maharashtra,2025,5,May,Maruti Suzuki,13409,False
+MH,Maharashtra,2025,5,May,Renault,223,False
+MH,Maharashtra,2025,6,Jun,Hyundai,5105,False
+MH,Maharashtra,2025,6,Jun,Kia,2380,False
+MH,Maharashtra,2025,6,Jun,Mahindra,3524,False
+MH,Maharashtra,2025,6,Jun,Maruti Suzuki,13766,False
+MH,Maharashtra,2025,6,Jun,Renault,277,False
+MH,Maharashtra,2025,7,Jul,Hyundai,6432,False
+MH,Maharashtra,2025,7,Jul,Kia,2717,False
+MH,Maharashtra,2025,7,Jul,Mahindra,3861,False
+MH,Maharashtra,2025,7,Jul,Maruti Suzuki,16269,False
+MH,Maharashtra,2025,7,Jul,Renault,297,False
+MH,Maharashtra,2025,8,Aug,Hyundai,6817,False
+MH,Maharashtra,2025,8,Aug,Kia,2819,False
+MH,Maharashtra,2025,8,Aug,Mahindra,4419,False
+MH,Maharashtra,2025,8,Aug,Maruti Suzuki,16548,False
+MH,Maharashtra,2025,8,Aug,Renault,365,False
+MH,Maharashtra,2025,9,Sep,Hyundai,4908,False
+MH,Maharashtra,2025,9,Sep,Kia,2253,False
+MH,Maharashtra,2025,9,Sep,Mahindra,3130,False
+MH,Maharashtra,2025,9,Sep,Maruti Suzuki,14862,False
+MH,Maharashtra,2025,9,Sep,Renault,259,False
+MH,Maharashtra,2025,10,Oct,Hyundai,9693,False
+MH,Maharashtra,2025,10,Oct,Kia,4764,False
+MH,Maharashtra,2025,10,Oct,Mahindra,8292,False
+MH,Maharashtra,2025,10,Oct,Maruti Suzuki,28765,False
+MH,Maharashtra,2025,10,Oct,Renault,671,False
+MH,Maharashtra,2025,11,Nov,Hyundai,6469,False
+MH,Maharashtra,2025,11,Nov,Kia,2916,False
+MH,Maharashtra,2025,11,Nov,Mahindra,4974,False
+MH,Maharashtra,2025,11,Nov,Maruti Suzuki,16848,False
+MH,Maharashtra,2025,11,Nov,Renault,379,False
+MH,Maharashtra,2025,12,Dec,Hyundai,5836,False
+MH,Maharashtra,2025,12,Dec,Kia,2304,False
+MH,Maharashtra,2025,12,Dec,Mahindra,4377,False
+MH,Maharashtra,2025,12,Dec,Maruti Suzuki,15733,False
+MH,Maharashtra,2025,12,Dec,Renault,294,False
+MH,Maharashtra,2026,1,Jan,Hyundai,9669,True
+MH,Maharashtra,2026,1,Jan,Kia,3856,True
+MH,Maharashtra,2026,1,Jan,Mahindra,5851,True
+MH,Maharashtra,2026,1,Jan,Maruti Suzuki,24986,True
+MH,Maharashtra,2026,1,Jan,Renault,541,True
+MH,Maharashtra,2026,2,Feb,Hyundai,5346,True
+MH,Maharashtra,2026,2,Feb,Kia,2823,True
+MH,Maharashtra,2026,2,Feb,Mahindra,4503,True
+MH,Maharashtra,2026,2,Feb,Maruti Suzuki,15724,True
+MH,Maharashtra,2026,2,Feb,Renault,268,True
+MH,Maharashtra,2026,3,Mar,Hyundai,6811,True
+MH,Maharashtra,2026,3,Mar,Kia,3891,True
+MH,Maharashtra,2026,3,Mar,Mahindra,6104,True
+MH,Maharashtra,2026,3,Mar,Maruti Suzuki,21254,True
+MH,Maharashtra,2026,3,Mar,Renault,440,True
+MH,Maharashtra,2026,4,Apr,Hyundai,6346,True
+MH,Maharashtra,2026,4,Apr,Kia,3475,True
+MH,Maharashtra,2026,4,Apr,Mahindra,5192,True
+MH,Maharashtra,2026,4,Apr,Maruti Suzuki,17732,True
+MH,Maharashtra,2026,4,Apr,Renault,463,True
+MH,Maharashtra,2026,5,May,Hyundai,5601,True
+MH,Maharashtra,2026,5,May,Kia,3169,True
+MH,Maharashtra,2026,5,May,Mahindra,4087,True
+MH,Maharashtra,2026,5,May,Maruti Suzuki,16909,True
+MH,Maharashtra,2026,5,May,Renault,427,True
+MH,Maharashtra,2026,6,Jun,Hyundai,5246,True
+MH,Maharashtra,2026,6,Jun,Kia,2728,True
+MH,Maharashtra,2026,6,Jun,Mahindra,4509,True
+MH,Maharashtra,2026,6,Jun,Maruti Suzuki,16813,True
+MH,Maharashtra,2026,6,Jun,Renault,374,True
+MH,Maharashtra,2026,7,Jul,Hyundai,6360,True
+MH,Maharashtra,2026,7,Jul,Kia,3506,True
+MH,Maharashtra,2026,7,Jul,Mahindra,4890,True
+MH,Maharashtra,2026,7,Jul,Maruti Suzuki,18690,True
+MH,Maharashtra,2026,7,Jul,Renault,349,True
+MH,Maharashtra,2026,8,Aug,Hyundai,6302,True
+MH,Maharashtra,2026,8,Aug,Kia,3141,True
+MH,Maharashtra,2026,8,Aug,Mahindra,4653,True
+MH,Maharashtra,2026,8,Aug,Maruti Suzuki,18738,True
+MH,Maharashtra,2026,8,Aug,Renault,360,True
+MH,Maharashtra,2026,9,Sep,Hyundai,5391,True
+MH,Maharashtra,2026,9,Sep,Kia,2732,True
+MH,Maharashtra,2026,9,Sep,Mahindra,4294,True
+MH,Maharashtra,2026,9,Sep,Maruti Suzuki,12274,True
+MH,Maharashtra,2026,9,Sep,Renault,303,True
+OD,Odisha,2021,1,Jan,Hyundai,1223,False
+OD,Odisha,2021,1,Jan,Kia,280,False
+OD,Odisha,2021,1,Jan,Mahindra,466,False
+OD,Odisha,2021,1,Jan,Maruti Suzuki,2643,False
+OD,Odisha,2021,1,Jan,Renault,209,False
+OD,Odisha,2021,2,Feb,Hyundai,1134,False
+OD,Odisha,2021,2,Feb,Kia,329,False
+OD,Odisha,2021,2,Feb,Mahindra,477,False
+OD,Odisha,2021,2,Feb,Maruti Suzuki,2540,False
+OD,Odisha,2021,2,Feb,Renault,128,False
+OD,Odisha,2021,3,Mar,Hyundai,1171,False
+OD,Odisha,2021,3,Mar,Kia,286,False
+OD,Odisha,2021,3,Mar,Mahindra,502,False
+OD,Odisha,2021,3,Mar,Maruti Suzuki,2657,False
+OD,Odisha,2021,3,Mar,Renault,204,False
+OD,Odisha,2021,4,Apr,Hyundai,1074,False
+OD,Odisha,2021,4,Apr,Kia,215,False
+OD,Odisha,2021,4,Apr,Mahindra,480,False
+OD,Odisha,2021,4,Apr,Maruti Suzuki,2208,False
+OD,Odisha,2021,4,Apr,Renault,195,False
+OD,Odisha,2021,5,May,Hyundai,156,False
+OD,Odisha,2021,5,May,Kia,14,False
+OD,Odisha,2021,5,May,Mahindra,89,False
+OD,Odisha,2021,5,May,Maruti Suzuki,253,False
+OD,Odisha,2021,5,May,Renault,29,False
+OD,Odisha,2021,6,Jun,Hyundai,667,False
+OD,Odisha,2021,6,Jun,Kia,217,False
+OD,Odisha,2021,6,Jun,Mahindra,332,False
+OD,Odisha,2021,6,Jun,Maruti Suzuki,1184,False
+OD,Odisha,2021,6,Jun,Renault,74,False
+OD,Odisha,2021,7,Jul,Hyundai,1097,False
+OD,Odisha,2021,7,Jul,Kia,331,False
+OD,Odisha,2021,7,Jul,Mahindra,563,False
+OD,Odisha,2021,7,Jul,Maruti Suzuki,2367,False
+OD,Odisha,2021,7,Jul,Renault,166,False
+OD,Odisha,2021,8,Aug,Hyundai,1104,False
+OD,Odisha,2021,8,Aug,Kia,288,False
+OD,Odisha,2021,8,Aug,Mahindra,568,False
+OD,Odisha,2021,8,Aug,Maruti Suzuki,2303,False
+OD,Odisha,2021,8,Aug,Renault,183,False
+OD,Odisha,2021,9,Sep,Hyundai,951,False
+OD,Odisha,2021,9,Sep,Kia,285,False
+OD,Odisha,2021,9,Sep,Mahindra,456,False
+OD,Odisha,2021,9,Sep,Maruti Suzuki,2073,False
+OD,Odisha,2021,9,Sep,Renault,157,False
+OD,Odisha,2021,10,Oct,Hyundai,1050,False
+OD,Odisha,2021,10,Oct,Kia,318,False
+OD,Odisha,2021,10,Oct,Mahindra,489,False
+OD,Odisha,2021,10,Oct,Maruti Suzuki,2587,False
+OD,Odisha,2021,10,Oct,Renault,251,False
+OD,Odisha,2021,11,Nov,Hyundai,893,False
+OD,Odisha,2021,11,Nov,Kia,283,False
+OD,Odisha,2021,11,Nov,Mahindra,589,False
+OD,Odisha,2021,11,Nov,Maruti Suzuki,2162,False
+OD,Odisha,2021,11,Nov,Renault,175,False
+OD,Odisha,2021,12,Dec,Hyundai,850,False
+OD,Odisha,2021,12,Dec,Kia,229,False
+OD,Odisha,2021,12,Dec,Mahindra,465,False
+OD,Odisha,2021,12,Dec,Maruti Suzuki,1894,False
+OD,Odisha,2021,12,Dec,Renault,163,False
+OD,Odisha,2022,1,Jan,Hyundai,879,False
+OD,Odisha,2022,1,Jan,Kia,229,False
+OD,Odisha,2022,1,Jan,Mahindra,564,False
+OD,Odisha,2022,1,Jan,Maruti Suzuki,2715,False
+OD,Odisha,2022,1,Jan,Renault,186,False
+OD,Odisha,2022,2,Feb,Hyundai,835,False
+OD,Odisha,2022,2,Feb,Kia,322,False
+OD,Odisha,2022,2,Feb,Mahindra,477,False
+OD,Odisha,2022,2,Feb,Maruti Suzuki,2083,False
+OD,Odisha,2022,2,Feb,Renault,155,False
+OD,Odisha,2022,3,Mar,Hyundai,923,False
+OD,Odisha,2022,3,Mar,Kia,347,False
+OD,Odisha,2022,3,Mar,Mahindra,835,False
+OD,Odisha,2022,3,Mar,Maruti Suzuki,2584,False
+OD,Odisha,2022,3,Mar,Renault,164,False
+OD,Odisha,2022,4,Apr,Hyundai,852,False
+OD,Odisha,2022,4,Apr,Kia,321,False
+OD,Odisha,2022,4,Apr,Mahindra,743,False
+OD,Odisha,2022,4,Apr,Maruti Suzuki,2157,False
+OD,Odisha,2022,4,Apr,Renault,131,False
+OD,Odisha,2022,5,May,Hyundai,865,False
+OD,Odisha,2022,5,May,Kia,346,False
+OD,Odisha,2022,5,May,Mahindra,602,False
+OD,Odisha,2022,5,May,Maruti Suzuki,2483,False
+OD,Odisha,2022,5,May,Renault,138,False
+OD,Odisha,2022,6,Jun,Hyundai,843,False
+OD,Odisha,2022,6,Jun,Kia,383,False
+OD,Odisha,2022,6,Jun,Mahindra,603,False
+OD,Odisha,2022,6,Jun,Maruti Suzuki,2412,False
+OD,Odisha,2022,6,Jun,Renault,167,False
+OD,Odisha,2022,7,Jul,Hyundai,936,False
+OD,Odisha,2022,7,Jul,Kia,353,False
+OD,Odisha,2022,7,Jul,Mahindra,638,False
+OD,Odisha,2022,7,Jul,Maruti Suzuki,2061,False
+OD,Odisha,2022,7,Jul,Renault,123,False
+OD,Odisha,2022,8,Aug,Hyundai,969,False
+OD,Odisha,2022,8,Aug,Kia,357,False
+OD,Odisha,2022,8,Aug,Mahindra,697,False
+OD,Odisha,2022,8,Aug,Maruti Suzuki,2257,False
+OD,Odisha,2022,8,Aug,Renault,135,False
+OD,Odisha,2022,9,Sep,Hyundai,943,False
+OD,Odisha,2022,9,Sep,Kia,382,False
+OD,Odisha,2022,9,Sep,Mahindra,681,False
+OD,Odisha,2022,9,Sep,Maruti Suzuki,2437,False
+OD,Odisha,2022,9,Sep,Renault,153,False
+OD,Odisha,2022,10,Oct,Hyundai,1029,False
+OD,Odisha,2022,10,Oct,Kia,403,False
+OD,Odisha,2022,10,Oct,Mahindra,827,False
+OD,Odisha,2022,10,Oct,Maruti Suzuki,2954,False
+OD,Odisha,2022,10,Oct,Renault,179,False
+OD,Odisha,2022,11,Nov,Hyundai,924,False
+OD,Odisha,2022,11,Nov,Kia,367,False
+OD,Odisha,2022,11,Nov,Mahindra,708,False
+OD,Odisha,2022,11,Nov,Maruti Suzuki,2476,False
+OD,Odisha,2022,11,Nov,Renault,138,False
+OD,Odisha,2022,12,Dec,Hyundai,936,False
+OD,Odisha,2022,12,Dec,Kia,353,False
+OD,Odisha,2022,12,Dec,Mahindra,790,False
+OD,Odisha,2022,12,Dec,Maruti Suzuki,2987,False
+OD,Odisha,2022,12,Dec,Renault,168,False
+OD,Odisha,2023,1,Jan,Hyundai,853,False
+OD,Odisha,2023,1,Jan,Kia,334,False
+OD,Odisha,2023,1,Jan,Mahindra,896,False
+OD,Odisha,2023,1,Jan,Maruti Suzuki,2702,False
+OD,Odisha,2023,1,Jan,Renault,150,False
+OD,Odisha,2023,2,Feb,Hyundai,797,False
+OD,Odisha,2023,2,Feb,Kia,254,False
+OD,Odisha,2023,2,Feb,Mahindra,688,False
+OD,Odisha,2023,2,Feb,Maruti Suzuki,2313,False
+OD,Odisha,2023,2,Feb,Renault,96,False
+OD,Odisha,2023,3,Mar,Hyundai,903,False
+OD,Odisha,2023,3,Mar,Kia,356,False
+OD,Odisha,2023,3,Mar,Mahindra,887,False
+OD,Odisha,2023,3,Mar,Maruti Suzuki,2736,False
+OD,Odisha,2023,3,Mar,Renault,91,False
+OD,Odisha,2023,4,Apr,Hyundai,850,False
+OD,Odisha,2023,4,Apr,Kia,242,False
+OD,Odisha,2023,4,Apr,Mahindra,758,False
+OD,Odisha,2023,4,Apr,Maruti Suzuki,2103,False
+OD,Odisha,2023,4,Apr,Renault,111,False
+OD,Odisha,2023,5,May,Hyundai,891,False
+OD,Odisha,2023,5,May,Kia,292,False
+OD,Odisha,2023,5,May,Mahindra,864,False
+OD,Odisha,2023,5,May,Maruti Suzuki,2452,False
+OD,Odisha,2023,5,May,Renault,106,False
+OD,Odisha,2023,6,Jun,Hyundai,904,False
+OD,Odisha,2023,6,Jun,Kia,250,False
+OD,Odisha,2023,6,Jun,Mahindra,758,False
+OD,Odisha,2023,6,Jun,Maruti Suzuki,2517,False
+OD,Odisha,2023,6,Jun,Renault,72,False
+OD,Odisha,2023,7,Jul,Hyundai,795,False
+OD,Odisha,2023,7,Jul,Kia,233,False
+OD,Odisha,2023,7,Jul,Mahindra,968,False
+OD,Odisha,2023,7,Jul,Maruti Suzuki,2422,False
+OD,Odisha,2023,7,Jul,Renault,84,False
+OD,Odisha,2023,8,Aug,Hyundai,1003,False
+OD,Odisha,2023,8,Aug,Kia,329,False
+OD,Odisha,2023,8,Aug,Mahindra,978,False
+OD,Odisha,2023,8,Aug,Maruti Suzuki,2571,False
+OD,Odisha,2023,8,Aug,Renault,93,False
+OD,Odisha,2023,9,Sep,Hyundai,1045,False
+OD,Odisha,2023,9,Sep,Kia,332,False
+OD,Odisha,2023,9,Sep,Mahindra,905,False
+OD,Odisha,2023,9,Sep,Maruti Suzuki,2634,False
+OD,Odisha,2023,9,Sep,Renault,72,False
+OD,Odisha,2023,10,Oct,Hyundai,1247,False
+OD,Odisha,2023,10,Oct,Kia,441,False
+OD,Odisha,2023,10,Oct,Mahindra,1040,False
+OD,Odisha,2023,10,Oct,Maruti Suzuki,3886,False
+OD,Odisha,2023,10,Oct,Renault,106,False
+OD,Odisha,2023,11,Nov,Hyundai,1044,False
+OD,Odisha,2023,11,Nov,Kia,382,False
+OD,Odisha,2023,11,Nov,Mahindra,970,False
+OD,Odisha,2023,11,Nov,Maruti Suzuki,2863,False
+OD,Odisha,2023,11,Nov,Renault,95,False
+OD,Odisha,2023,12,Dec,Hyundai,994,False
+OD,Odisha,2023,12,Dec,Kia,299,False
+OD,Odisha,2023,12,Dec,Mahindra,884,False
+OD,Odisha,2023,12,Dec,Maruti Suzuki,3080,False
+OD,Odisha,2023,12,Dec,Renault,89,False
+OD,Odisha,2024,1,Jan,Hyundai,924,False
+OD,Odisha,2024,1,Jan,Kia,378,False
+OD,Odisha,2024,1,Jan,Mahindra,1004,False
+OD,Odisha,2024,1,Jan,Maruti Suzuki,3007,False
+OD,Odisha,2024,1,Jan,Renault,82,False
+OD,Odisha,2024,2,Feb,Hyundai,997,False
+OD,Odisha,2024,2,Feb,Kia,391,False
+OD,Odisha,2024,2,Feb,Mahindra,911,False
+OD,Odisha,2024,2,Feb,Maruti Suzuki,2329,False
+OD,Odisha,2024,2,Feb,Renault,83,False
+OD,Odisha,2024,3,Mar,Hyundai,946,False
+OD,Odisha,2024,3,Mar,Kia,364,False
+OD,Odisha,2024,3,Mar,Mahindra,956,False
+OD,Odisha,2024,3,Mar,Maruti Suzuki,2769,False
+OD,Odisha,2024,3,Mar,Renault,92,False
+OD,Odisha,2024,4,Apr,Hyundai,874,False
+OD,Odisha,2024,4,Apr,Kia,385,False
+OD,Odisha,2024,4,Apr,Mahindra,885,False
+OD,Odisha,2024,4,Apr,Maruti Suzuki,2361,False
+OD,Odisha,2024,4,Apr,Renault,94,False
+OD,Odisha,2024,5,May,Hyundai,973,False
+OD,Odisha,2024,5,May,Kia,383,False
+OD,Odisha,2024,5,May,Mahindra,819,False
+OD,Odisha,2024,5,May,Maruti Suzuki,2400,False
+OD,Odisha,2024,5,May,Renault,83,False
+OD,Odisha,2024,6,Jun,Hyundai,824,False
+OD,Odisha,2024,6,Jun,Kia,346,False
+OD,Odisha,2024,6,Jun,Mahindra,855,False
+OD,Odisha,2024,6,Jun,Maruti Suzuki,2169,False
+OD,Odisha,2024,6,Jun,Renault,78,False
+OD,Odisha,2024,7,Jul,Hyundai,910,False
+OD,Odisha,2024,7,Jul,Kia,373,False
+OD,Odisha,2024,7,Jul,Mahindra,957,False
+OD,Odisha,2024,7,Jul,Maruti Suzuki,2639,False
+OD,Odisha,2024,7,Jul,Renault,91,False
+OD,Odisha,2024,8,Aug,Hyundai,878,False
+OD,Odisha,2024,8,Aug,Kia,338,False
+OD,Odisha,2024,8,Aug,Mahindra,921,False
+OD,Odisha,2024,8,Aug,Maruti Suzuki,2077,False
+OD,Odisha,2024,8,Aug,Renault,68,False
+OD,Odisha,2024,9,Sep,Hyundai,786,False
+OD,Odisha,2024,9,Sep,Kia,291,False
+OD,Odisha,2024,9,Sep,Mahindra,820,False
+OD,Odisha,2024,9,Sep,Maruti Suzuki,2155,False
+OD,Odisha,2024,9,Sep,Renault,62,False
+OD,Odisha,2024,10,Oct,Hyundai,1701,False
+OD,Odisha,2024,10,Oct,Kia,659,False
+OD,Odisha,2024,10,Oct,Mahindra,1452,False
+OD,Odisha,2024,10,Oct,Maruti Suzuki,4556,False
+OD,Odisha,2024,10,Oct,Renault,134,False
+OD,Odisha,2024,11,Nov,Hyundai,977,False
+OD,Odisha,2024,11,Nov,Kia,407,False
+OD,Odisha,2024,11,Nov,Mahindra,1033,False
+OD,Odisha,2024,11,Nov,Maruti Suzuki,2150,False
+OD,Odisha,2024,11,Nov,Renault,72,False
+OD,Odisha,2024,12,Dec,Hyundai,815,False
+OD,Odisha,2024,12,Dec,Kia,368,False
+OD,Odisha,2024,12,Dec,Mahindra,931,False
+OD,Odisha,2024,12,Dec,Maruti Suzuki,2347,False
+OD,Odisha,2024,12,Dec,Renault,73,False
+OD,Odisha,2025,1,Jan,Hyundai,1153,False
+OD,Odisha,2025,1,Jan,Kia,397,False
+OD,Odisha,2025,1,Jan,Mahindra,1199,False
+OD,Odisha,2025,1,Jan,Maruti Suzuki,3469,False
+OD,Odisha,2025,1,Jan,Renault,87,False
+OD,Odisha,2025,2,Feb,Hyundai,774,False
+OD,Odisha,2025,2,Feb,Kia,378,False
+OD,Odisha,2025,2,Feb,Mahindra,959,False
+OD,Odisha,2025,2,Feb,Maruti Suzuki,2056,False
+OD,Odisha,2025,2,Feb,Renault,65,False
+OD,Odisha,2025,3,Mar,Hyundai,966,False
+OD,Odisha,2025,3,Mar,Kia,475,False
+OD,Odisha,2025,3,Mar,Mahindra,1204,False
+OD,Odisha,2025,3,Mar,Maruti Suzuki,2645,False
+OD,Odisha,2025,3,Mar,Renault,60,False
+OD,Odisha,2025,4,Apr,Hyundai,942,False
+OD,Odisha,2025,4,Apr,Kia,479,False
+OD,Odisha,2025,4,Apr,Mahindra,1144,False
+OD,Odisha,2025,4,Apr,Maruti Suzuki,2556,False
+OD,Odisha,2025,4,Apr,Renault,62,False
+OD,Odisha,2025,5,May,Hyundai,830,False
+OD,Odisha,2025,5,May,Kia,363,False
+OD,Odisha,2025,5,May,Mahindra,1151,False
+OD,Odisha,2025,5,May,Maruti Suzuki,2183,False
+OD,Odisha,2025,5,May,Renault,50,False
+OD,Odisha,2025,6,Jun,Hyundai,870,False
+OD,Odisha,2025,6,Jun,Kia,400,False
+OD,Odisha,2025,6,Jun,Mahindra,970,False
+OD,Odisha,2025,6,Jun,Maruti Suzuki,2503,False
+OD,Odisha,2025,6,Jun,Renault,47,False
+OD,Odisha,2025,7,Jul,Hyundai,885,False
+OD,Odisha,2025,7,Jul,Kia,405,False
+OD,Odisha,2025,7,Jul,Mahindra,1024,False
+OD,Odisha,2025,7,Jul,Maruti Suzuki,2286,False
+OD,Odisha,2025,7,Jul,Renault,45,False
+OD,Odisha,2025,8,Aug,Hyundai,849,False
+OD,Odisha,2025,8,Aug,Kia,397,False
+OD,Odisha,2025,8,Aug,Mahindra,1039,False
+OD,Odisha,2025,8,Aug,Maruti Suzuki,2139,False
+OD,Odisha,2025,8,Aug,Renault,64,False
+OD,Odisha,2025,9,Sep,Hyundai,1000,False
+OD,Odisha,2025,9,Sep,Kia,426,False
+OD,Odisha,2025,9,Sep,Mahindra,1259,False
+OD,Odisha,2025,9,Sep,Maruti Suzuki,2351,False
+OD,Odisha,2025,9,Sep,Renault,75,False
+OD,Odisha,2025,10,Oct,Hyundai,1674,False
+OD,Odisha,2025,10,Oct,Kia,752,False
+OD,Odisha,2025,10,Oct,Mahindra,1790,False
+OD,Odisha,2025,10,Oct,Maruti Suzuki,4947,False
+OD,Odisha,2025,10,Oct,Renault,147,False
+OD,Odisha,2025,11,Nov,Hyundai,1026,False
+OD,Odisha,2025,11,Nov,Kia,529,False
+OD,Odisha,2025,11,Nov,Mahindra,1349,False
+OD,Odisha,2025,11,Nov,Maruti Suzuki,2945,False
+OD,Odisha,2025,11,Nov,Renault,77,False
+OD,Odisha,2025,12,Dec,Hyundai,1092,False
+OD,Odisha,2025,12,Dec,Kia,483,False
+OD,Odisha,2025,12,Dec,Mahindra,1171,False
+OD,Odisha,2025,12,Dec,Maruti Suzuki,3375,False
+OD,Odisha,2025,12,Dec,Renault,84,False
+OD,Odisha,2026,1,Jan,Hyundai,1214,True
+OD,Odisha,2026,1,Jan,Kia,562,True
+OD,Odisha,2026,1,Jan,Mahindra,1402,True
+OD,Odisha,2026,1,Jan,Maruti Suzuki,3674,True
+OD,Odisha,2026,1,Jan,Renault,91,True
+OD,Odisha,2026,2,Feb,Hyundai,939,True
+OD,Odisha,2026,2,Feb,Kia,543,True
+OD,Odisha,2026,2,Feb,Mahindra,1283,True
+OD,Odisha,2026,2,Feb,Maruti Suzuki,2503,True
+OD,Odisha,2026,2,Feb,Renault,89,True
+OD,Odisha,2026,3,Mar,Hyundai,1029,True
+OD,Odisha,2026,3,Mar,Kia,593,True
+OD,Odisha,2026,3,Mar,Mahindra,1342,True
+OD,Odisha,2026,3,Mar,Maruti Suzuki,2499,True
+OD,Odisha,2026,3,Mar,Renault,83,True
+OD,Odisha,2026,4,Apr,Hyundai,1128,True
+OD,Odisha,2026,4,Apr,Kia,547,True
+OD,Odisha,2026,4,Apr,Mahindra,1275,True
+OD,Odisha,2026,4,Apr,Maruti Suzuki,2927,True
+OD,Odisha,2026,4,Apr,Renault,88,True
+OD,Odisha,2026,5,May,Hyundai,1029,True
+OD,Odisha,2026,5,May,Kia,504,True
+OD,Odisha,2026,5,May,Mahindra,1146,True
+OD,Odisha,2026,5,May,Maruti Suzuki,2974,True
+OD,Odisha,2026,5,May,Renault,97,True
+OD,Odisha,2026,6,Jun,Hyundai,961,True
+OD,Odisha,2026,6,Jun,Kia,551,True
+OD,Odisha,2026,6,Jun,Mahindra,1115,True
+OD,Odisha,2026,6,Jun,Maruti Suzuki,3249,True
+OD,Odisha,2026,6,Jun,Renault,103,True
+OD,Odisha,2026,7,Jul,Hyundai,1095,True
+OD,Odisha,2026,7,Jul,Kia,550,True
+OD,Odisha,2026,7,Jul,Mahindra,1208,True
+OD,Odisha,2026,7,Jul,Maruti Suzuki,2942,True
+OD,Odisha,2026,7,Jul,Renault,78,True
+OD,Odisha,2026,8,Aug,Hyundai,1021,True
+OD,Odisha,2026,8,Aug,Kia,511,True
+OD,Odisha,2026,8,Aug,Mahindra,1120,True
+OD,Odisha,2026,8,Aug,Maruti Suzuki,2973,True
+OD,Odisha,2026,8,Aug,Renault,86,True
+OD,Odisha,2026,9,Sep,Hyundai,649,True
+OD,Odisha,2026,9,Sep,Kia,387,True
+OD,Odisha,2026,9,Sep,Mahindra,737,True
+OD,Odisha,2026,9,Sep,Maruti Suzuki,1920,True
+OD,Odisha,2026,9,Sep,Renault,63,True
+TN,Tamil Nadu,2021,1,Jan,Hyundai,3162,False
+TN,Tamil Nadu,2021,1,Jan,Kia,872,False
+TN,Tamil Nadu,2021,1,Jan,Mahindra,809,False
+TN,Tamil Nadu,2021,1,Jan,Maruti Suzuki,9716,False
+TN,Tamil Nadu,2021,1,Jan,Renault,1396,False
+TN,Tamil Nadu,2021,2,Feb,Hyundai,3098,False
+TN,Tamil Nadu,2021,2,Feb,Kia,1015,False
+TN,Tamil Nadu,2021,2,Feb,Mahindra,932,False
+TN,Tamil Nadu,2021,2,Feb,Maruti Suzuki,8098,False
+TN,Tamil Nadu,2021,2,Feb,Renault,1115,False
+TN,Tamil Nadu,2021,3,Mar,Hyundai,3459,False
+TN,Tamil Nadu,2021,3,Mar,Kia,1000,False
+TN,Tamil Nadu,2021,3,Mar,Mahindra,750,False
+TN,Tamil Nadu,2021,3,Mar,Maruti Suzuki,8884,False
+TN,Tamil Nadu,2021,3,Mar,Renault,1345,False
+TN,Tamil Nadu,2021,4,Apr,Hyundai,3095,False
+TN,Tamil Nadu,2021,4,Apr,Kia,959,False
+TN,Tamil Nadu,2021,4,Apr,Mahindra,822,False
+TN,Tamil Nadu,2021,4,Apr,Maruti Suzuki,7726,False
+TN,Tamil Nadu,2021,4,Apr,Renault,1224,False
+TN,Tamil Nadu,2021,5,May,Hyundai,441,False
+TN,Tamil Nadu,2021,5,May,Kia,153,False
+TN,Tamil Nadu,2021,5,May,Mahindra,162,False
+TN,Tamil Nadu,2021,5,May,Maruti Suzuki,1471,False
+TN,Tamil Nadu,2021,5,May,Renault,270,False
+TN,Tamil Nadu,2021,6,Jun,Hyundai,1369,False
+TN,Tamil Nadu,2021,6,Jun,Kia,883,False
+TN,Tamil Nadu,2021,6,Jun,Mahindra,303,False
+TN,Tamil Nadu,2021,6,Jun,Maruti Suzuki,2546,False
+TN,Tamil Nadu,2021,6,Jun,Renault,454,False
+TN,Tamil Nadu,2021,7,Jul,Hyundai,3394,False
+TN,Tamil Nadu,2021,7,Jul,Kia,1400,False
+TN,Tamil Nadu,2021,7,Jul,Mahindra,965,False
+TN,Tamil Nadu,2021,7,Jul,Maruti Suzuki,8231,False
+TN,Tamil Nadu,2021,7,Jul,Renault,1136,False
+TN,Tamil Nadu,2021,8,Aug,Hyundai,3464,False
+TN,Tamil Nadu,2021,8,Aug,Kia,1010,False
+TN,Tamil Nadu,2021,8,Aug,Mahindra,926,False
+TN,Tamil Nadu,2021,8,Aug,Maruti Suzuki,8372,False
+TN,Tamil Nadu,2021,8,Aug,Renault,1260,False
+TN,Tamil Nadu,2021,9,Sep,Hyundai,2736,False
+TN,Tamil Nadu,2021,9,Sep,Kia,945,False
+TN,Tamil Nadu,2021,9,Sep,Mahindra,808,False
+TN,Tamil Nadu,2021,9,Sep,Maruti Suzuki,7426,False
+TN,Tamil Nadu,2021,9,Sep,Renault,1253,False
+TN,Tamil Nadu,2021,10,Oct,Hyundai,2416,False
+TN,Tamil Nadu,2021,10,Oct,Kia,903,False
+TN,Tamil Nadu,2021,10,Oct,Mahindra,543,False
+TN,Tamil Nadu,2021,10,Oct,Maruti Suzuki,5025,False
+TN,Tamil Nadu,2021,10,Oct,Renault,1045,False
+TN,Tamil Nadu,2021,11,Nov,Hyundai,2546,False
+TN,Tamil Nadu,2021,11,Nov,Kia,879,False
+TN,Tamil Nadu,2021,11,Nov,Mahindra,860,False
+TN,Tamil Nadu,2021,11,Nov,Maruti Suzuki,5202,False
+TN,Tamil Nadu,2021,11,Nov,Renault,1068,False
+TN,Tamil Nadu,2021,12,Dec,Hyundai,2949,False
+TN,Tamil Nadu,2021,12,Dec,Kia,765,False
+TN,Tamil Nadu,2021,12,Dec,Mahindra,772,False
+TN,Tamil Nadu,2021,12,Dec,Maruti Suzuki,6177,False
+TN,Tamil Nadu,2021,12,Dec,Renault,992,False
+TN,Tamil Nadu,2022,1,Jan,Hyundai,2742,False
+TN,Tamil Nadu,2022,1,Jan,Kia,624,False
+TN,Tamil Nadu,2022,1,Jan,Mahindra,1008,False
+TN,Tamil Nadu,2022,1,Jan,Maruti Suzuki,9218,False
+TN,Tamil Nadu,2022,1,Jan,Renault,1038,False
+TN,Tamil Nadu,2022,2,Feb,Hyundai,2817,False
+TN,Tamil Nadu,2022,2,Feb,Kia,865,False
+TN,Tamil Nadu,2022,2,Feb,Mahindra,791,False
+TN,Tamil Nadu,2022,2,Feb,Maruti Suzuki,6141,False
+TN,Tamil Nadu,2022,2,Feb,Renault,798,False
+TN,Tamil Nadu,2022,3,Mar,Hyundai,3348,False
+TN,Tamil Nadu,2022,3,Mar,Kia,1477,False
+TN,Tamil Nadu,2022,3,Mar,Mahindra,1399,False
+TN,Tamil Nadu,2022,3,Mar,Maruti Suzuki,7147,False
+TN,Tamil Nadu,2022,3,Mar,Renault,945,False
+TN,Tamil Nadu,2022,4,Apr,Hyundai,2730,False
+TN,Tamil Nadu,2022,4,Apr,Kia,1259,False
+TN,Tamil Nadu,2022,4,Apr,Mahindra,1155,False
+TN,Tamil Nadu,2022,4,Apr,Maruti Suzuki,6164,False
+TN,Tamil Nadu,2022,4,Apr,Renault,827,False
+TN,Tamil Nadu,2022,5,May,Hyundai,2533,False
+TN,Tamil Nadu,2022,5,May,Kia,1353,False
+TN,Tamil Nadu,2022,5,May,Mahindra,1020,False
+TN,Tamil Nadu,2022,5,May,Maruti Suzuki,7173,False
+TN,Tamil Nadu,2022,5,May,Renault,952,False
+TN,Tamil Nadu,2022,6,Jun,Hyundai,2796,False
+TN,Tamil Nadu,2022,6,Jun,Kia,1522,False
+TN,Tamil Nadu,2022,6,Jun,Mahindra,1124,False
+TN,Tamil Nadu,2022,6,Jun,Maruti Suzuki,7853,False
+TN,Tamil Nadu,2022,6,Jun,Renault,911,False
+TN,Tamil Nadu,2022,7,Jul,Hyundai,2737,False
+TN,Tamil Nadu,2022,7,Jul,Kia,1394,False
+TN,Tamil Nadu,2022,7,Jul,Mahindra,1049,False
+TN,Tamil Nadu,2022,7,Jul,Maruti Suzuki,5972,False
+TN,Tamil Nadu,2022,7,Jul,Renault,754,False
+TN,Tamil Nadu,2022,8,Aug,Hyundai,3065,False
+TN,Tamil Nadu,2022,8,Aug,Kia,1455,False
+TN,Tamil Nadu,2022,8,Aug,Mahindra,1400,False
+TN,Tamil Nadu,2022,8,Aug,Maruti Suzuki,7352,False
+TN,Tamil Nadu,2022,8,Aug,Renault,883,False
+TN,Tamil Nadu,2022,9,Sep,Hyundai,3107,False
+TN,Tamil Nadu,2022,9,Sep,Kia,1640,False
+TN,Tamil Nadu,2022,9,Sep,Mahindra,1306,False
+TN,Tamil Nadu,2022,9,Sep,Maruti Suzuki,7409,False
+TN,Tamil Nadu,2022,9,Sep,Renault,876,False
+TN,Tamil Nadu,2022,10,Oct,Hyundai,2738,False
+TN,Tamil Nadu,2022,10,Oct,Kia,1337,False
+TN,Tamil Nadu,2022,10,Oct,Mahindra,1165,False
+TN,Tamil Nadu,2022,10,Oct,Maruti Suzuki,6734,False
+TN,Tamil Nadu,2022,10,Oct,Renault,812,False
+TN,Tamil Nadu,2022,11,Nov,Hyundai,3142,False
+TN,Tamil Nadu,2022,11,Nov,Kia,1544,False
+TN,Tamil Nadu,2022,11,Nov,Mahindra,1562,False
+TN,Tamil Nadu,2022,11,Nov,Maruti Suzuki,7426,False
+TN,Tamil Nadu,2022,11,Nov,Renault,769,False
+TN,Tamil Nadu,2022,12,Dec,Hyundai,2954,False
+TN,Tamil Nadu,2022,12,Dec,Kia,1481,False
+TN,Tamil Nadu,2022,12,Dec,Mahindra,1515,False
+TN,Tamil Nadu,2022,12,Dec,Maruti Suzuki,7478,False
+TN,Tamil Nadu,2022,12,Dec,Renault,810,False
+TN,Tamil Nadu,2023,1,Jan,Hyundai,2890,False
+TN,Tamil Nadu,2023,1,Jan,Kia,1478,False
+TN,Tamil Nadu,2023,1,Jan,Mahindra,1757,False
+TN,Tamil Nadu,2023,1,Jan,Maruti Suzuki,10877,False
+TN,Tamil Nadu,2023,1,Jan,Renault,1102,False
+TN,Tamil Nadu,2023,2,Feb,Hyundai,2835,False
+TN,Tamil Nadu,2023,2,Feb,Kia,1665,False
+TN,Tamil Nadu,2023,2,Feb,Mahindra,1354,False
+TN,Tamil Nadu,2023,2,Feb,Maruti Suzuki,6789,False
+TN,Tamil Nadu,2023,2,Feb,Renault,628,False
+TN,Tamil Nadu,2023,3,Mar,Hyundai,3518,False
+TN,Tamil Nadu,2023,3,Mar,Kia,1794,False
+TN,Tamil Nadu,2023,3,Mar,Mahindra,1444,False
+TN,Tamil Nadu,2023,3,Mar,Maruti Suzuki,7912,False
+TN,Tamil Nadu,2023,3,Mar,Renault,718,False
+TN,Tamil Nadu,2023,4,Apr,Hyundai,2959,False
+TN,Tamil Nadu,2023,4,Apr,Kia,1374,False
+TN,Tamil Nadu,2023,4,Apr,Mahindra,1499,False
+TN,Tamil Nadu,2023,4,Apr,Maruti Suzuki,6615,False
+TN,Tamil Nadu,2023,4,Apr,Renault,590,False
+TN,Tamil Nadu,2023,5,May,Hyundai,3345,False
+TN,Tamil Nadu,2023,5,May,Kia,1698,False
+TN,Tamil Nadu,2023,5,May,Mahindra,1639,False
+TN,Tamil Nadu,2023,5,May,Maruti Suzuki,7298,False
+TN,Tamil Nadu,2023,5,May,Renault,684,False
+TN,Tamil Nadu,2023,6,Jun,Hyundai,3521,False
+TN,Tamil Nadu,2023,6,Jun,Kia,1795,False
+TN,Tamil Nadu,2023,6,Jun,Mahindra,1672,False
+TN,Tamil Nadu,2023,6,Jun,Maruti Suzuki,8489,False
+TN,Tamil Nadu,2023,6,Jun,Renault,799,False
+TN,Tamil Nadu,2023,7,Jul,Hyundai,2970,False
+TN,Tamil Nadu,2023,7,Jul,Kia,1517,False
+TN,Tamil Nadu,2023,7,Jul,Mahindra,1579,False
+TN,Tamil Nadu,2023,7,Jul,Maruti Suzuki,7519,False
+TN,Tamil Nadu,2023,7,Jul,Renault,668,False
+TN,Tamil Nadu,2023,8,Aug,Hyundai,3285,False
+TN,Tamil Nadu,2023,8,Aug,Kia,1714,False
+TN,Tamil Nadu,2023,8,Aug,Mahindra,1823,False
+TN,Tamil Nadu,2023,8,Aug,Maruti Suzuki,9678,False
+TN,Tamil Nadu,2023,8,Aug,Renault,699,False
+TN,Tamil Nadu,2023,9,Sep,Hyundai,3484,False
+TN,Tamil Nadu,2023,9,Sep,Kia,1656,False
+TN,Tamil Nadu,2023,9,Sep,Mahindra,1705,False
+TN,Tamil Nadu,2023,9,Sep,Maruti Suzuki,8830,False
+TN,Tamil Nadu,2023,9,Sep,Renault,577,False
+TN,Tamil Nadu,2023,10,Oct,Hyundai,4272,False
+TN,Tamil Nadu,2023,10,Oct,Kia,2092,False
+TN,Tamil Nadu,2023,10,Oct,Mahindra,1998,False
+TN,Tamil Nadu,2023,10,Oct,Maruti Suzuki,10737,False
+TN,Tamil Nadu,2023,10,Oct,Renault,823,False
+TN,Tamil Nadu,2023,11,Nov,Hyundai,2722,False
+TN,Tamil Nadu,2023,11,Nov,Kia,1229,False
+TN,Tamil Nadu,2023,11,Nov,Mahindra,1437,False
+TN,Tamil Nadu,2023,11,Nov,Maruti Suzuki,7469,False
+TN,Tamil Nadu,2023,11,Nov,Renault,447,False
+TN,Tamil Nadu,2023,12,Dec,Hyundai,2869,False
+TN,Tamil Nadu,2023,12,Dec,Kia,1250,False
+TN,Tamil Nadu,2023,12,Dec,Mahindra,1478,False
+TN,Tamil Nadu,2023,12,Dec,Maruti Suzuki,7545,False
+TN,Tamil Nadu,2023,12,Dec,Renault,445,False
+TN,Tamil Nadu,2024,1,Jan,Hyundai,3433,False
+TN,Tamil Nadu,2024,1,Jan,Kia,1468,False
+TN,Tamil Nadu,2024,1,Jan,Mahindra,2125,False
+TN,Tamil Nadu,2024,1,Jan,Maruti Suzuki,12823,False
+TN,Tamil Nadu,2024,1,Jan,Renault,690,False
+TN,Tamil Nadu,2024,2,Feb,Hyundai,3694,False
+TN,Tamil Nadu,2024,2,Feb,Kia,1853,False
+TN,Tamil Nadu,2024,2,Feb,Mahindra,1646,False
+TN,Tamil Nadu,2024,2,Feb,Maruti Suzuki,8622,False
+TN,Tamil Nadu,2024,2,Feb,Renault,578,False
+TN,Tamil Nadu,2024,3,Mar,Hyundai,3240,False
+TN,Tamil Nadu,2024,3,Mar,Kia,1661,False
+TN,Tamil Nadu,2024,3,Mar,Mahindra,1624,False
+TN,Tamil Nadu,2024,3,Mar,Maruti Suzuki,8378,False
+TN,Tamil Nadu,2024,3,Mar,Renault,626,False
+TN,Tamil Nadu,2024,4,Apr,Hyundai,3442,False
+TN,Tamil Nadu,2024,4,Apr,Kia,1359,False
+TN,Tamil Nadu,2024,4,Apr,Mahindra,1492,False
+TN,Tamil Nadu,2024,4,Apr,Maruti Suzuki,9124,False
+TN,Tamil Nadu,2024,4,Apr,Renault,682,False
+TN,Tamil Nadu,2024,5,May,Hyundai,3250,False
+TN,Tamil Nadu,2024,5,May,Kia,1737,False
+TN,Tamil Nadu,2024,5,May,Mahindra,1402,False
+TN,Tamil Nadu,2024,5,May,Maruti Suzuki,8649,False
+TN,Tamil Nadu,2024,5,May,Renault,624,False
+TN,Tamil Nadu,2024,6,Jun,Hyundai,3052,False
+TN,Tamil Nadu,2024,6,Jun,Kia,1370,False
+TN,Tamil Nadu,2024,6,Jun,Mahindra,1732,False
+TN,Tamil Nadu,2024,6,Jun,Maruti Suzuki,8084,False
+TN,Tamil Nadu,2024,6,Jun,Renault,552,False
+TN,Tamil Nadu,2024,7,Jul,Hyundai,3425,False
+TN,Tamil Nadu,2024,7,Jul,Kia,1666,False
+TN,Tamil Nadu,2024,7,Jul,Mahindra,2001,False
+TN,Tamil Nadu,2024,7,Jul,Maruti Suzuki,9283,False
+TN,Tamil Nadu,2024,7,Jul,Renault,607,False
+TN,Tamil Nadu,2024,8,Aug,Hyundai,3209,False
+TN,Tamil Nadu,2024,8,Aug,Kia,1494,False
+TN,Tamil Nadu,2024,8,Aug,Mahindra,2253,False
+TN,Tamil Nadu,2024,8,Aug,Maruti Suzuki,8370,False
+TN,Tamil Nadu,2024,8,Aug,Renault,549,False
+TN,Tamil Nadu,2024,9,Sep,Hyundai,3220,False
+TN,Tamil Nadu,2024,9,Sep,Kia,1522,False
+TN,Tamil Nadu,2024,9,Sep,Mahindra,1804,False
+TN,Tamil Nadu,2024,9,Sep,Maruti Suzuki,8300,False
+TN,Tamil Nadu,2024,9,Sep,Renault,529,False
+TN,Tamil Nadu,2024,10,Oct,Hyundai,3243,False
+TN,Tamil Nadu,2024,10,Oct,Kia,1489,False
+TN,Tamil Nadu,2024,10,Oct,Mahindra,2011,False
+TN,Tamil Nadu,2024,10,Oct,Maruti Suzuki,8411,False
+TN,Tamil Nadu,2024,10,Oct,Renault,637,False
+TN,Tamil Nadu,2024,11,Nov,Hyundai,2849,False
+TN,Tamil Nadu,2024,11,Nov,Kia,1426,False
+TN,Tamil Nadu,2024,11,Nov,Mahindra,1897,False
+TN,Tamil Nadu,2024,11,Nov,Maruti Suzuki,8074,False
+TN,Tamil Nadu,2024,11,Nov,Renault,488,False
+TN,Tamil Nadu,2024,12,Dec,Hyundai,3363,False
+TN,Tamil Nadu,2024,12,Dec,Kia,1620,False
+TN,Tamil Nadu,2024,12,Dec,Mahindra,1809,False
+TN,Tamil Nadu,2024,12,Dec,Maruti Suzuki,7605,False
+TN,Tamil Nadu,2024,12,Dec,Renault,485,False
+TN,Tamil Nadu,2025,1,Jan,Hyundai,4332,False
+TN,Tamil Nadu,2025,1,Jan,Kia,1732,False
+TN,Tamil Nadu,2025,1,Jan,Mahindra,2689,False
+TN,Tamil Nadu,2025,1,Jan,Maruti Suzuki,15576,False
+TN,Tamil Nadu,2025,1,Jan,Renault,754,False
+TN,Tamil Nadu,2025,2,Feb,Hyundai,2452,False
+TN,Tamil Nadu,2025,2,Feb,Kia,1369,False
+TN,Tamil Nadu,2025,2,Feb,Mahindra,1756,False
+TN,Tamil Nadu,2025,2,Feb,Maruti Suzuki,7457,False
+TN,Tamil Nadu,2025,2,Feb,Renault,462,False
+TN,Tamil Nadu,2025,3,Mar,Hyundai,2577,False
+TN,Tamil Nadu,2025,3,Mar,Kia,1539,False
+TN,Tamil Nadu,2025,3,Mar,Mahindra,1892,False
+TN,Tamil Nadu,2025,3,Mar,Maruti Suzuki,7703,False
+TN,Tamil Nadu,2025,3,Mar,Renault,388,False
+TN,Tamil Nadu,2025,4,Apr,Hyundai,3530,False
+TN,Tamil Nadu,2025,4,Apr,Kia,1798,False
+TN,Tamil Nadu,2025,4,Apr,Mahindra,2574,False
+TN,Tamil Nadu,2025,4,Apr,Maruti Suzuki,9756,False
+TN,Tamil Nadu,2025,4,Apr,Renault,500,False
+TN,Tamil Nadu,2025,5,May,Hyundai,2456,False
+TN,Tamil Nadu,2025,5,May,Kia,1257,False
+TN,Tamil Nadu,2025,5,May,Mahindra,1908,False
+TN,Tamil Nadu,2025,5,May,Maruti Suzuki,7386,False
+TN,Tamil Nadu,2025,5,May,Renault,412,False
+TN,Tamil Nadu,2025,6,Jun,Hyundai,2735,False
+TN,Tamil Nadu,2025,6,Jun,Kia,1507,False
+TN,Tamil Nadu,2025,6,Jun,Mahindra,2010,False
+TN,Tamil Nadu,2025,6,Jun,Maruti Suzuki,8120,False
+TN,Tamil Nadu,2025,6,Jun,Renault,488,False
+TN,Tamil Nadu,2025,7,Jul,Hyundai,3048,False
+TN,Tamil Nadu,2025,7,Jul,Kia,1751,False
+TN,Tamil Nadu,2025,7,Jul,Mahindra,2303,False
+TN,Tamil Nadu,2025,7,Jul,Maruti Suzuki,9252,False
+TN,Tamil Nadu,2025,7,Jul,Renault,468,False
+TN,Tamil Nadu,2025,8,Aug,Hyundai,2926,False
+TN,Tamil Nadu,2025,8,Aug,Kia,1527,False
+TN,Tamil Nadu,2025,8,Aug,Mahindra,2456,False
+TN,Tamil Nadu,2025,8,Aug,Maruti Suzuki,8592,False
+TN,Tamil Nadu,2025,8,Aug,Renault,476,False
+TN,Tamil Nadu,2025,9,Sep,Hyundai,2576,False
+TN,Tamil Nadu,2025,9,Sep,Kia,1354,False
+TN,Tamil Nadu,2025,9,Sep,Mahindra,1644,False
+TN,Tamil Nadu,2025,9,Sep,Maruti Suzuki,8183,False
+TN,Tamil Nadu,2025,9,Sep,Renault,536,False
+TN,Tamil Nadu,2025,10,Oct,Hyundai,4098,False
+TN,Tamil Nadu,2025,10,Oct,Kia,1944,False
+TN,Tamil Nadu,2025,10,Oct,Mahindra,2705,False
+TN,Tamil Nadu,2025,10,Oct,Maruti Suzuki,12644,False
+TN,Tamil Nadu,2025,10,Oct,Renault,762,False
+TN,Tamil Nadu,2025,11,Nov,Hyundai,3316,False
+TN,Tamil Nadu,2025,11,Nov,Kia,1868,False
+TN,Tamil Nadu,2025,11,Nov,Mahindra,2655,False
+TN,Tamil Nadu,2025,11,Nov,Maruti Suzuki,8717,False
+TN,Tamil Nadu,2025,11,Nov,Renault,661,False
+TN,Tamil Nadu,2025,12,Dec,Hyundai,4664,False
+TN,Tamil Nadu,2025,12,Dec,Kia,2271,False
+TN,Tamil Nadu,2025,12,Dec,Mahindra,3125,False
+TN,Tamil Nadu,2025,12,Dec,Maruti Suzuki,12584,False
+TN,Tamil Nadu,2025,12,Dec,Renault,838,False
+TN,Tamil Nadu,2026,1,Jan,Hyundai,4561,True
+TN,Tamil Nadu,2026,1,Jan,Kia,2057,True
+TN,Tamil Nadu,2026,1,Jan,Mahindra,3248,True
+TN,Tamil Nadu,2026,1,Jan,Maruti Suzuki,14763,True
+TN,Tamil Nadu,2026,1,Jan,Renault,1041,True
+TN,Tamil Nadu,2026,2,Feb,Hyundai,3443,True
+TN,Tamil Nadu,2026,2,Feb,Kia,2013,True
+TN,Tamil Nadu,2026,2,Feb,Mahindra,2818,True
+TN,Tamil Nadu,2026,2,Feb,Maruti Suzuki,10738,True
+TN,Tamil Nadu,2026,2,Feb,Renault,604,True
+TN,Tamil Nadu,2026,3,Mar,Hyundai,3692,True
+TN,Tamil Nadu,2026,3,Mar,Kia,2048,True
+TN,Tamil Nadu,2026,3,Mar,Mahindra,3215,True
+TN,Tamil Nadu,2026,3,Mar,Maruti Suzuki,11253,True
+TN,Tamil Nadu,2026,3,Mar,Renault,701,True
+TN,Tamil Nadu,2026,4,Apr,Hyundai,4179,True
+TN,Tamil Nadu,2026,4,Apr,Kia,2179,True
+TN,Tamil Nadu,2026,4,Apr,Mahindra,3009,True
+TN,Tamil Nadu,2026,4,Apr,Maruti Suzuki,12083,True
+TN,Tamil Nadu,2026,4,Apr,Renault,745,True
+TN,Tamil Nadu,2026,5,May,Hyundai,3579,True
+TN,Tamil Nadu,2026,5,May,Kia,1781,True
+TN,Tamil Nadu,2026,5,May,Mahindra,2255,True
+TN,Tamil Nadu,2026,5,May,Maruti Suzuki,10972,True
+TN,Tamil Nadu,2026,5,May,Renault,727,True
+TN,Tamil Nadu,2026,6,Jun,Hyundai,3966,True
+TN,Tamil Nadu,2026,6,Jun,Kia,2023,True
+TN,Tamil Nadu,2026,6,Jun,Mahindra,2688,True
+TN,Tamil Nadu,2026,6,Jun,Maruti Suzuki,12835,True
+TN,Tamil Nadu,2026,6,Jun,Renault,715,True
+TN,Tamil Nadu,2026,7,Jul,Hyundai,4608,True
+TN,Tamil Nadu,2026,7,Jul,Kia,2283,True
+TN,Tamil Nadu,2026,7,Jul,Mahindra,3133,True
+TN,Tamil Nadu,2026,7,Jul,Maruti Suzuki,12416,True
+TN,Tamil Nadu,2026,7,Jul,Renault,798,True
+TN,Tamil Nadu,2026,8,Aug,Hyundai,4251,True
+TN,Tamil Nadu,2026,8,Aug,Kia,2041,True
+TN,Tamil Nadu,2026,8,Aug,Mahindra,2610,True
+TN,Tamil Nadu,2026,8,Aug,Maruti Suzuki,13171,True
+TN,Tamil Nadu,2026,8,Aug,Renault,665,True
+TN,Tamil Nadu,2026,9,Sep,Hyundai,3214,True
+TN,Tamil Nadu,2026,9,Sep,Kia,1502,True
+TN,Tamil Nadu,2026,9,Sep,Mahindra,2018,True
+TN,Tamil Nadu,2026,9,Sep,Maruti Suzuki,7688,True
+TN,Tamil Nadu,2026,9,Sep,Renault,522,True
