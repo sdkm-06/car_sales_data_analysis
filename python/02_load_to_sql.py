@@ -7,7 +7,8 @@ import sqlite3
 import pandas as pd
 import os
 
-PROJECT_DIR = "/home/claude/india-auto-market-analysis"
+# Built from this file's location, so the script runs from any clone of the repo.
+PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH = os.path.join(PROJECT_DIR, "india_auto_market.db")
 SCHEMA_PATH = os.path.join(PROJECT_DIR, "sql", "01_schema.sql")
 CSV_PATH = os.path.join(PROJECT_DIR, "data", "cleaned", "vahan_master_dataset.csv")

@@ -1,9 +1,12 @@
 """Run a .sql file (semicolon-separated statements) against the project DB and print results."""
+import os
 import sqlite3
 import sys
 import pandas as pd
 
-DB_PATH = "/home/claude/india-auto-market-analysis/india_auto_market.db"
+# Built from this file's location, so the script runs from any clone of the repo.
+PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(PROJECT_DIR, "india_auto_market.db")
 
 def run_sql_file(path):
     with open(path) as f:

@@ -23,9 +23,12 @@ import glob
 import os
 import re
 
-RAW_DIR = "/home/claude/india-auto-market-analysis/data/raw"
-CLEAN_DIR = "/home/claude/india-auto-market-analysis/data/cleaned"
-LOG_PATH = "/home/claude/india-auto-market-analysis/docs/data_cleaning_log_output.txt"
+# Paths are built from this file's location, so the script runs from any clone
+# of the repo (no machine-specific absolute paths).
+PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_DIR = os.path.join(PROJECT_DIR, "data", "raw")
+CLEAN_DIR = os.path.join(PROJECT_DIR, "data", "cleaned")
+LOG_PATH = os.path.join(PROJECT_DIR, "docs", "data_cleaning_log_output.txt")
 
 STATE_NAMES = {
     "DL": "Delhi", "KA": "Karnataka", "MH": "Maharashtra",

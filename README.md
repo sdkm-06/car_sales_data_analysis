@@ -28,7 +28,7 @@ registration system.
 |---|---|
 | Reliable | Official government registry, not third-party estimates |
 | Original | Sourced directly from VAHAN, not a secondary aggregator |
-| Comprehensive | Covers all registered 4-wheeler passenger vehicles per state/RTO |
+| Comprehensive | Partial by design: 5 makers x 5 states only (no Tata, Toyota, Honda, etc.), so results describe this sample, not the whole Indian market |
 | Current | Data through September 2026 |
 | Cited | Publicly attributable to Govt. of India, MoRTH |
 
@@ -74,10 +74,13 @@ Key results (2021–2025 full years, 2026 tracked separately as YTD):
 - **Fastest grower:** Mahindra — +81% (2022), +39% (2023), +19% (2024), +17% (2025), consistently compounding
 - **Market leader by state:** Maruti Suzuki #1 in all 5 states, but by a much
   smaller margin in some (see full breakdown in findings doc)
-- **Seasonality:** October is the peak month nationally (festive season —
-  Navratri/Diwali); February is consistently the sharpest post-January dip
-- **Anomaly:** May 2021 shows a near-total collapse in registrations across
-  all makers/states — matches India's COVID-19 second wave lockdowns
+- **Who lost share to Mahindra:** Mahindra gained +9.2 share points (2021 to 2025),
+  offset mainly by Hyundai (-4.1) and Renault (-3.9). Maruti (-0.8) and Kia (-0.4) barely moved
+- **Seasonality:** October is the peak month (festive season — Navratri/Diwali) and
+  February the trough, a swing of about 59% (2022-2025, excluding the COVID-distorted 2021)
+- **Anomaly:** May 2021 collapsed in Delhi (-99.6%), Karnataka (-95.8%), Odisha (-87.0%)
+  and Tamil Nadu (-81.9%) versus April, but only -23.5% in Maharashtra — matches
+  India's COVID-19 second wave lockdowns, which hit states unevenly
 
 Full findings write-up: [`docs/key_findings.md`](docs/key_findings.md)
 
@@ -86,7 +89,10 @@ Full findings write-up: [`docs/key_findings.md`](docs/key_findings.md)
 Tableau-ready extract: `tableau/vahan_tableau_extract.csv`
 Dashboard build guide: [`tableau/tableau_dashboard_guide.md`](tableau/tableau_dashboard_guide.md)
 
-Dashboard pages:
+**Status: dashboard not yet built or published.** The guide below is the build
+plan. Once built, add a screenshot and the Tableau Public link here.
+
+Planned dashboard pages:
 1. Market share overview (all makers, all states)
 2. YoY growth trend by maker
 3. State-wise deep dive
@@ -99,7 +105,7 @@ set, framed as stakeholder-ready action items with supporting numbers.
 
 ## Project Structure
 ```
-india-auto-market-analysis/
+car_sales_data_analysis/
 ├── data/
 │   ├── raw/              # 30 original VAHAN export CSVs
 │   └── cleaned/          # Final tidy dataset
@@ -118,8 +124,20 @@ india-auto-market-analysis/
 │   ├── data_cleaning_log.md
 │   └── key_findings.md
 ├── india_auto_market.db
+├── requirements.txt
+├── .gitignore
 └── README.md
 ```
+
+## How to Reproduce
+```bash
+pip install -r requirements.txt
+python python/01_clean_and_transform.py     # raw CSVs -> data/cleaned/vahan_master_dataset.csv
+python python/02_load_to_sql.py             # cleaned CSV -> india_auto_market.db
+python python/run_sql.py sql/02_data_validation.sql
+python python/run_sql.py sql/03_analysis_queries.sql
+```
+Scripts build their paths from their own location, so they run from any clone.
 
 ## Tech Stack
 Python (pandas) · SQL (SQLite) · Tableau · Data source: VAHAN / Govt. of India
